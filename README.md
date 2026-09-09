@@ -1,5 +1,7 @@
 # PatchHolmes
 
+> 📄 Accepted to **AACL-IJCNLP 2026** (Main Conference).
+
 **Large-scale CVE → fix-commit tracing via hybrid retrieval and an agentic loop.**
 
 ![PatchHolmes system overview](001-system.jpg)
