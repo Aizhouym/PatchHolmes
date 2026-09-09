@@ -1,0 +1,39 @@
+method: "multiturn_listwise"
+system_message: |-
+  You are an expert security analyst. Your job is to identify the single commit
+  that ACTUALLY FIXES a given CVE among a list of candidate commits.
+
+  Be aware of these common traps. None of the following are the fix commit:
+    - Changelog or release-note commits that merely mention the CVE
+    - Test commits that only add a regression test for the CVE
+    - Backports or follow-up cleanups of a previously-applied fix
+    - Fixes for a DIFFERENT vulnerability in the same module
+    - Commits whose message contains CVE keywords but whose diff is unrelated
+
+  Real fix commits typically share these traits:
+    - A terse, technical commit message (not marketing or release notes)
+    - A small, targeted diff that adds bounds checks, input validation,
+      output encoding/escaping, or other concrete protection
+    - Modifies the source file or function path implied by the CVE description
+
+  When ranking, read the DIFF, not just the message. A commit's message can
+  mention the CVE without actually fixing it.
+prefix_user: |-
+  I will provide you with {num} candidate commits, each indicated by a number
+  identifier in [].
+  Your task: pick the commit that actually fixes the vulnerability described
+  in this query: {query}
+prefix_assistant: "Understood. Please provide the candidate commits."
+body_user: "[{rank}] {candidate}"
+body_assistant: "Received commit [{rank}]."
+suffix_user: |-
+  CVE description: {query}
+
+  Rank the {num} candidate commits above from most-likely-to-be-the-fix to
+  least. Base your judgment on whether each commit's DIFF actually patches
+  the vulnerability — do not rely on message keywords alone.
+
+  Output format: [a] > [b] > [c] ...
+  Only output the ranking line. Do not include any explanation.
+output_validation_regex: '^\[\d+\]( > \[\d+\])*$'
+output_extraction_regex: '\[(\d+)\]'

@@ -1,0 +1,68 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "patchholmes"
+version = "0.1.0"
+description = "Large-scale CVE → fix-commit tracing via hybrid retrieval and an agentic loop."
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.10"
+authors = [
+    {name = "The PatchHolmes Authors"},
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Security",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+
+# Heavy/optional deps (torch, faiss, transformers, openhands-sdk, …) are kept
+# in requirements.txt rather than `dependencies = [...]` so that `pip install -e .`
+# does not force a multi-GB install when someone only wants to read the source.
+# To install the runtime stack:
+#     pip install -e .
+#     pip install -r requirements.txt
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4",
+    "ruff>=0.4",
+    "mypy>=1.8",
+]
+
+[project.scripts]
+patchholmes-phase1        = "patchholmes.cli.phase1:main"
+patchholmes-phase1-grouped = "patchholmes.cli.phase1_grouped:main"
+patchholmes-encode        = "patchholmes.cli.encode:main"
+patchholmes-eval-phase2   = "patchholmes.cli.eval_phase2:main"
+
+[project.urls]
+# Repository URLs are intentionally omitted for double-blind review.
+# See the anonymized companion code for details.
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["patchholmes*"]
+exclude = ["tests*", "baselines*", "scripts*"]
+
+[tool.setuptools.package-data]
+# Ship the Phase-2 LLM-rerank prompt template inside the wheel.
+patchholmes = ["phase2/prompts/*.yaml"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+ignore = ["E501"]

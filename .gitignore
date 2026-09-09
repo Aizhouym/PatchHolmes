@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Environments / secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+.ipynb_checkpoints/
+
+# Test / coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Project artifacts
+logs/
+/embeddings/               # only the top-level embeddings/, not data/mini/embeddings/
+*.pkl
+*.faiss
+*.bin
+
+# But DO ship the minimum-verifiable dataset shards under data/mini/
+!data/mini/**
+
+# Large generated datasets (regenerate via scripts/patchholmes.sh encode)
+data/candidate_corpus_*.jsonl
+data/qwen_available_*.json
+data/qwen_available_*.tsv
+data/data_availability_report.json
+
+# OpenHands SDK runtime state if used in dev
+.openhands/

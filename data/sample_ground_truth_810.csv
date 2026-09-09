@@ -1,0 +1,810 @@
+cve,owner,repo,patch,commit_count,diff_tokens,ranker_rank,year,repo_size_bucket,diff_bucket,ranker_bucket,year_bucket,language,cwe_family
+CVE-2018-20030,libexif,libexif,6aa11df549114ebda520dde4cdaea2f9357b2c89,1436,532,5,2018,1k-5k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-9278,libexif,libexif,75aa73267fdb1e0ebfbc00369e7312bac43d0566,1436,435,51,2019,1k-5k,<5k,top-11-100,2018-2020,C,CWE-682: Incorrect Calculation
+CVE-2020-13112,libexif,libexif,435e21f05001fb03f9f186fa7cbc69454afd00d1,1436,1569,7,2020,1k-5k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-13113,libexif,libexif,ec412aa4583ad71ecabb967d3c77162760169d1f,1436,191,9,2020,1k-5k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-13114,libexif,libexif,e6a38a1a23ba94d139b1fa2cd4519fdcfe3c9bab,1436,224,13,2020,1k-5k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-8884,mdadams,jasper,5d66894d2313e3f3469f19066e149e08ff076698,1424,525,1,2016,1k-5k,<5k,top-1,2015-2017,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2016-9390,mdadams,jasper,ba2b9d000660313af7b692542afbd374c5685865,1424,103,479,2016,1k-5k,<5k,>100,2015-2017,C,CWE-707: Improper Neutralization
+CVE-2016-10249,mdadams,jasper,988f8365f7d8ad8073b6786e433d34c553ecf568,1424,281,88,2016,1k-5k,<5k,top-11-100,2015-2017,C,CWE-682: Incorrect Calculation
+CVE-2016-10251,mdadams,jasper,1f0dfe5a42911b6880a1445f13f6d615ddb55387,1424,391,1,2016,1k-5k,<5k,top-1,2015-2017,C,CWE-682: Incorrect Calculation
+CVE-2016-10248,mdadams,jasper,2e82fa00466ae525339754bb3ab0a0474a31d4bd,1424,390,1,2016,1k-5k,<5k,top-1,2015-2017,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2016-9388,mdadams,jasper,411a4068f8c464e883358bf403a3e25158863823,1424,588,7,2016,1k-5k,<5k,top-2-10,2015-2017,C,CWE-691: Insufficient Control Flow Management
+CVE-2017-6850,mdadams,jasper,e96fc4fdd525fa0ede28074a7e2b1caf94b58b0d,1424,1000,11,2017,1k-5k,<5k,top-11-100,2015-2017,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2016-9387,mdadams,jasper,d91198abd00fc435a397fe6bad906a4c1748e9cf,1424,98,33,2016,1k-5k,<5k,top-11-100,2015-2017,C,CWE-682: Incorrect Calculation
+CVE-2016-8887,mdadams,jasper,e24bdc716c3327b067c551bc6cfb97fd2370358d,1424,158,5,2016,1k-5k,<5k,top-2-10,2015-2017,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2016-8654,mdadams,jasper,4a59cfaf9ab3d48fca4a15c0d2674bf7138e3d1a,1424,501,2,2016,1k-5k,<5k,top-2-10,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2010-1152,memcached,memcached,d9cd01ede97f4145af9781d448c62a3318952719,2196,57,99,2010,1k-5k,<5k,top-11-100,2009-2011,C,CWE-707: Improper Neutralization
+CVE-2018-1000115,memcached,memcached,dbb7a8af90054bf4ef51f5814ef7ceb17d83d974,2196,230,1,2018,1k-5k,<5k,top-1,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-1000127,memcached,memcached,a8c4a82787b8b6c256d61bd5c42fb7f92d1bae00,2196,131,193,2018,1k-5k,<5k,>100,2018-2020,C,CWE-682: Incorrect Calculation
+CVE-2019-11596,memcached,memcached,d35334f368817a77a6bd1f33c6a5676b2c402c02,2196,118,5,2019,1k-5k,<5k,top-2-10,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2019-15026,memcached,memcached,554b56687a19300a75ec24184746b5512580c819,2196,253,27,2019,1k-5k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-10931,memcached,memcached,02c6a2b62ddcb6fa4569a591d3461a156a636305,2196,105,3,2020,1k-5k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-6016,ValveSoftware,GameNetworkingSockets,e0c86dcb9139771db3db0cfdb1fb8bef0af19c43,1385,402,50,2020,1k-5k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-6017,ValveSoftware,GameNetworkingSockets,e0c86dcb9139771db3db0cfdb1fb8bef0af19c43,1385,402,4,2020,1k-5k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-6018,ValveSoftware,GameNetworkingSockets,bea84e2844b647532a9b7fbc3a6a8989d66e49e3,1385,235,16,2020,1k-5k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-6019,ValveSoftware,GameNetworkingSockets,d944a10808891d202bb1d5e1998de6e0423af678,1385,95,41,2020,1k-5k,<5k,top-11-100,2018-2020,C,CWE-691: Insufficient Control Flow Management
+CVE-2021-36084,SELinuxProject,selinux,f34d3d30c8325e4847a6b696fe7a3936a8a361f3,3917,33,2,2021,1k-5k,<5k,top-2-10,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-36085,SELinuxProject,selinux,2d35fcc7e9e976a2346b1de20e54f8663e8a6cba,3917,38,329,2021,1k-5k,<5k,>100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-36086,SELinuxProject,selinux,c49a8ea09501ad66e799ea41b8154b6770fec2c8,3917,50,2,2021,1k-5k,<5k,top-2-10,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-36087,SELinuxProject,selinux,340f0eb7f3673e8aacaf0a96cbfcd4d12a405521,3917,382,2,2021,1k-5k,<5k,top-2-10,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-15853,xkbcommon,libxkbcommon,1f9d1248c07cda8aaff762429c0dce146de8632a,2340,44,1,2018,1k-5k,<5k,top-1,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-15854,xkbcommon,libxkbcommon,e3cacae7b1bfda0d839c280494f23284a1187adf,2340,313,1,2018,1k-5k,<5k,top-1,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2018-15855,xkbcommon,libxkbcommon,917636b1d0d70205a13f89062b95e3a0fc31d4ff,2340,146,1,2018,1k-5k,<5k,top-1,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2018-15856,xkbcommon,libxkbcommon,842e4351c2c97de6051cab6ce36b4a81e709a0e1,2340,50,1,2018,1k-5k,<5k,top-1,2018-2020,C,CWE-691: Insufficient Control Flow Management
+CVE-2018-15857,xkbcommon,libxkbcommon,c1e5ac16e77a21f87bdf3bc4dea61b037a17dddb,2340,34,14,2018,1k-5k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-15858,xkbcommon,libxkbcommon,badb428e63387140720f22486b3acbd3d738859f,2340,82,1,2018,1k-5k,<5k,top-1,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2018-15859,xkbcommon,libxkbcommon,bb4909d2d8fa6b08155e449986a478101e2b2634,2340,81,88,2018,1k-5k,<5k,top-11-100,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2018-15861,xkbcommon,libxkbcommon,38e1766bc6e20108948aec8a0b222a4bad0254e9,2340,49,1,2018,1k-5k,<5k,top-1,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2018-15862,xkbcommon,libxkbcommon,4e2ee9c3f6050d773f8bbe05bc0edb17f1ff8371,2340,42,45,2018,1k-5k,<5k,top-11-100,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2018-15863,xkbcommon,libxkbcommon,96df3106d49438e442510c59acad306e94f3db4d,2340,58,1,2018,1k-5k,<5k,top-1,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2019-18671,keepkey,keepkey-firmware,b222c66cdd7c3203d917c80ba615082d309d80c3,3944,764,97,2019,1k-5k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-18672,keepkey,keepkey-firmware,769714fcb569e7a4faff9530a2d9ac1f9d6e5680,3944,298,48,2019,1k-5k,<5k,top-11-100,2018-2020,C,CWE-693: Protection Mechanism Failure
+CVE-2021-31616,keepkey,keepkey-firmware,e49d45594002d4d3fbc1f03488e6dfc0a0a65836,3944,154,4,2021,1k-5k,<5k,top-2-10,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-30330,keepkey,keepkey-firmware,447c1f038a31378ab9589965c098467d9ea6cccc,3944,612,69,2022,1k-5k,<5k,top-11-100,2021-2024,C,CWE-707: Improper Neutralization
+CVE-2017-7185,cesanta,mongoose,b8402ed0733e3f244588b61ad5fedd093e3cf9cc,4901,64,45,2017,1k-5k,<5k,top-11-100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-12951,cesanta,mongoose,b3e0f780c34cea88f057a62213c012aa88fe2deb,4901,442,1,2019,1k-5k,<5k,top-1,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-25299,cesanta,mongoose,c65c8fdaaa257e0487ab0aaae9e8f6b439335945,4901,896,86,2022,1k-5k,<5k,top-11-100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-36143,projectacrn,acrn-hypervisor,154fe59531c12b82e26d1b24b5531f5066d224f5,8265,50,1,2021,5k-10k,<5k,top-1,2021-2024,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2021-36148,projectacrn,acrn-hypervisor,25c0e3817eb332660dd63d1d4522e63dcc94e79a,8265,148,1,2021,5k-10k,<5k,top-1,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-15888,lua,lua,eb41999461b6f428186c55abd95f4ce1a76217d5,5653,638,34,2020,5k-10k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-15889,lua,lua,127e7a6c8942b362aa3c6627f44d660a4fb75312,5653,142,14,2020,5k-10k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-15945,lua,lua,a2195644d89812e5b157ce7bac35543e06db05e3,5653,1024,1,2020,5k-10k,<5k,top-1,2018-2020,C,Unknown
+CVE-2020-24342,lua,lua,34affe7a63fc5d842580a9f23616d057e17dfe27,5653,122,1,2020,5k-10k,<5k,top-1,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-24369,lua,lua,ae5b5ba529753c7a653901ffc29b5ea24c3fdf3a,5653,254,3,2020,5k-10k,<5k,top-2-10,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2020-24370,lua,lua,a585eae6e7ada1ca9271607a4f48dfb17868ab7b,5653,142,1,2020,5k-10k,<5k,top-1,2018-2020,C,CWE-682: Incorrect Calculation
+CVE-2020-24371,lua,lua,a6da1472c0c5e05ff249325f979531ad51533110,5653,1160,3,2020,5k-10k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-28805,lua,lua,1f3c6f4534c6411313361697d98d1145a1f030fa,5653,128,11,2022,5k-10k,<5k,top-11-100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-33099,lua,lua,42d40581dd919fb134c07027ca1ce0844c670daf,5653,265,1,2022,5k-10k,<5k,top-1,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-1999-0731,KDE,kde1-kdebase,04906bd5de2f220bf100b605dad37b4a1d9a91a6,6140,34,999,1999,5k-10k,<5k,>100,2009-2011,C,Unknown
+CVE-2020-15261,veyon,veyon,f231ec511b9a09f43f49b2c7bb7c60b8046276b1,6418,107,3,2020,5k-10k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-4300,libarchive,libarchive,e79ef306afe332faf22e9b442a2c6b59cb175573,6089,53,3,2016,5k-10k,<5k,top-2-10,2015-2017,C,CWE-682: Incorrect Calculation
+CVE-2021-30218,michaelforney,samurai,e84b6d99c85043fa1ba54851ee500540ec206918,356,62,7,2021,<=1k,<5k,top-2-10,2021-2024,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2021-30219,michaelforney,samurai,d2af3bc375e2a77139c3a28d6128c60cd8d08655,356,48,15,2021,<=1k,<5k,top-11-100,2021-2024,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2019-1010315,dbry,WavPack,4c0faba32fddbd0745cbfaf1e1aeb3da5d35b9fc,970,178,11,2019,<=1k,<5k,top-11-100,2018-2020,C,CWE-682: Incorrect Calculation
+CVE-2018-10539,dbry,WavPack,6f8bb34c2993a48ab9afbe353e6d0cff7c8d821d,970,280,1,2018,<=1k,<5k,top-1,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-1010319,dbry,WavPack,33a0025d1d63ccd05d9dbaa6923d52b1446a62fe,970,41,3,2019,<=1k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-7254,dbry,WavPack,8e3fe45a7bac31d9a3b558ae0079e2d92a04799e,970,281,1,2018,<=1k,<5k,top-1,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-10169,dbry,WavPack,4bc05fc490b66ef2d45b1de26abf1455b486b0dc,970,168,73,2016,<=1k,<5k,top-11-100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-7253,dbry,WavPack,36a24c7881427d2e1e4dc1cef58f19eee0d13aec,970,109,1,2018,<=1k,<5k,top-1,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-6767,dbry,WavPack,d5bf76b5a88d044a1be1d5656698e3ba737167e5,970,566,1,2018,<=1k,<5k,top-1,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-11498,dbry,WavPack,bc6cba3f552c44565f7f1e66dc1580189addb2b4,970,115,7,2019,<=1k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-10538,dbry,WavPack,6f8bb34c2993a48ab9afbe353e6d0cff7c8d821d,970,280,1,2018,<=1k,<5k,top-1,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-19841,dbry,WavPack,bba5389dc598a92bdf2b297c3ea34620b6679b5b,970,133,1,2018,<=1k,<5k,top-1,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-15522,LINBIT,csync2,416f1de878ef97e27e27508914f7ba8599a0be22,550,30,1,2019,<=1k,<5k,top-1,2018-2020,C,Unknown
+CVE-2017-6800,Yeraze,ytnef,f98f5d4adc1c4bd4033638f6167c1bb95d642f89,298,43,20,2017,<=1k,<5k,top-11-100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-6801,Yeraze,ytnef,3cb0f914d6427073f262e1b2b5fd973e3043cdf7,298,148,1,2017,<=1k,<5k,top-1,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-6802,Yeraze,ytnef,22f8346c8d4f0020a40d9f258fdb3bfc097359cc,298,164,1,2017,<=1k,<5k,top-1,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-16789,shellinabox,shellinabox,4f0ecc31ac6f985e0dd3f5a52cbfc0e9251f6361,386,158,4,2018,<=1k,<5k,top-2-10,2018-2020,C,CWE-691: Insufficient Control Flow Management
+CVE-2012-2675,ned14,nedmalloc,2965eca30c408c13473c4146a9d47d547d288db1,225,87,3,2012,<=1k,<5k,top-2-10,2012-2014,C,Unknown
+CVE-2018-14680,kyz,libmspack,72e70a921f0f07fee748aec2274b30784e1d312a,427,318,5,2018,<=1k,<5k,top-2-10,2018-2020,C,CWE-707: Improper Neutralization
+CVE-2018-18585,kyz,libmspack,8759da8db6ec9e866cb8eb143313f397f925bb4f,427,195,19,2018,<=1k,<5k,top-11-100,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2018-14681,kyz,libmspack,0b0ef9344255ff5acfac6b7af09198ac9c9756c8,427,1826,11,2018,<=1k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-14682,kyz,libmspack,4fd9ccaa54e1aebde1e4b95fb0163b699fd7bcc8,427,113,2,2018,<=1k,<5k,top-2-10,2018-2020,C,CWE-682: Incorrect Calculation
+CVE-2018-18586,kyz,libmspack,7cadd489698be117c47efcadd742651594429e6d,427,1062,1,2018,<=1k,<5k,top-1,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-1010305,kyz,libmspack,2f084136cfe0d05e5bf5703f3e83c6d955234b4d,427,264,41,2019,<=1k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-14679,kyz,libmspack,72e70a921f0f07fee748aec2274b30784e1d312a,427,318,3,2018,<=1k,<5k,top-2-10,2018-2020,C,CWE-682: Incorrect Calculation
+CVE-2021-41216,tensorflow,tensorflow,c79ba87153ee343401dbe9d1954d7f79e521eb14,253954,228,942,2021,>10k,<5k,>100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-23595,tensorflow,tensorflow,e21af685e1828f7ca65038307df5cc06de4479e8,253954,228,278,2022,>10k,<5k,>100,2021-2024,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2022-35982,tensorflow,tensorflow,40adbe4dd15b582b0210dfbf40c243a62f5119fa,253954,228,456,2022,>10k,<5k,>100,2021-2024,C,CWE-707: Improper Neutralization
+CVE-2021-37686,tensorflow,tensorflow,dfa22b348b70bb89d6d6ec0ff53973bacb4f4695,253954,228,2538,2021,>10k,<5k,>100,2021-2024,C,CWE-691: Insufficient Control Flow Management
+CVE-2021-29572,tensorflow,tensorflow,f7cc8755ac6683131fdfa7a8a121f9d7a9dec6fb,253954,228,2781,2021,>10k,<5k,>100,2021-2024,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2021-29596,tensorflow,tensorflow,f61c57bd425878be108ec787f4d96390579fb83e,253954,228,3615,2021,>10k,<5k,>100,2021-2024,C,CWE-682: Incorrect Calculation
+CVE-2021-29560,tensorflow,tensorflow,a84358aa12f0b1518e606095ab9cfddbf597c121,253954,228,2341,2021,>10k,<5k,>100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-37668,tensorflow,tensorflow,a776040a5e7ebf76eeb7eb923bf1ae417dd4d233,253954,228,2709,2021,>10k,<5k,>100,2021-2024,C,CWE-682: Incorrect Calculation
+CVE-2022-23565,tensorflow,tensorflow,c2b31ff2d3151acb230edc3f5b1832d2c713a9e0,253954,228,3286,2022,>10k,<5k,>100,2021-2024,C,CWE-691: Insufficient Control Flow Management
+CVE-2022-23571,tensorflow,tensorflow,5b491cd5e41ad63735161cec9c2a568172c8b6a3,253954,228,5386,2022,>10k,<5k,>100,2021-2024,C,CWE-691: Insufficient Control Flow Management
+CVE-2015-8958,ImageMagick,ImageMagick,1aa0c6dab6dcef4d9bc3571866ae1c1ddbec7d8f|b8f17d08b7418204bf8a05a5c24e87b2fc395b75,63797,228,10000,2015,>10k,<5k,>100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-12640,ImageMagick,ImageMagick,307fa45d512641fcd105f0d57ca50c1437cd1b81,63797,52,200,2017,>10k,<5k,>100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-12876,ImageMagick,ImageMagick,1cc6f0ccc92c20c7cab6c4a7335daf29c91f0d8e,63797,93,116,2017,>10k,<5k,>100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-8677,ImageMagick,ImageMagick,6e48aa92ff4e6e95424300ecd52a9ea453c19c60,63797,465,255,2016,>10k,<5k,>100,2015-2017,C,Unknown
+CVE-2017-13143,ImageMagick,ImageMagick,51b0ae01709adc1e4a9245e158ef17b85a110960,63797,46,687,2017,>10k,<5k,>100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-10714,ImageMagick,ImageMagick,edc7d3035883ddca8413e4fe7689aa2e579ef04a,63797,131,1,2019,>10k,<5k,top-1,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-9143,ImageMagick,ImageMagick,3b0fe05cddd8910f84e51b4d50099702ea45ba4a,63797,53,7,2017,>10k,<5k,top-2-10,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-14341,ImageMagick,ImageMagick,7d63315a64267c565d1f34b9cb523a14616fed24,63797,32,58,2017,>10k,<5k,top-11-100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-12427,ImageMagick,ImageMagick,e793eb203e5e0f91f5037aed6585e81b1e27395b,63797,137,12,2017,>10k,<5k,top-11-100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-18853,ImageMagick,ImageMagick,ec9c8944af2bfc65c697ca44f93a727a99b405f1,63797,87,5,2019,>10k,<5k,top-2-10,2018-2020,C,CWE-691: Insufficient Control Flow Management
+CVE-2012-6696,inspircd,inspircd,ed28c1ba666b39581adb860bf51cdde43c84cc89,16081,66,3365,2012,>10k,<5k,>100,2012-2014,C,CWE-707: Improper Neutralization
+CVE-2015-8702,inspircd,inspircd,6058483d9fbc1b904d5ae7cfea47bfcde5c5b559,16081,72,40,2015,>10k,<5k,top-11-100,2015-2017,C,CWE-707: Improper Neutralization
+CVE-2016-7142,inspircd,inspircd,74fafb7f11b06747f69f182ad5e3769b665eea7a,16081,79,1,2016,>10k,<5k,top-1,2015-2017,C,Unknown
+CVE-2019-20917,inspircd,inspircd,8745660fcdac7c1b80c94cfc0ff60928cd4dd4b7,16081,68,1743,2019,>10k,<5k,>100,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2019-20918,inspircd,inspircd,7b47de3c194f239c5fea09a0e49696c9af017d51,16081,30,407,2019,>10k,<5k,>100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-33586,inspircd,inspircd,4350a11c663b0d75f8119743bffb7736d87abd4d,16081,95,32,2021,>10k,<5k,top-11-100,2021-2024,C,CWE-284: Improper Access Control
+CVE-2023-5217,webmproject,libvpx,3fbd1dca6a4d2dad332a2110d646e4ffef36d590|af6dedd715f4307669366944cca6e0417b290282,22672,0,10000,2023,>10k,<5k,>100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-45907,pytorch,pytorch,767f6aa49fe20a2766b9843d01e3b7f7793df6a3,123403,228,460,2022,>10k,<5k,>100,2021-2024,C,CWE-707: Improper Neutralization
+CVE-2024-31580,pytorch,pytorch,b5c3a17c2c207ebefcb85043f0cf94be9b2fef81,123403,228,1,2024,>10k,<5k,top-1,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-31583,pytorch,pytorch,9c7071b0e324f9fb68ab881283d6b8d388a4bcd2,123403,228,1,2024,>10k,<5k,top-1,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-4019,vim,vim,bd228fd097b41a798f90944b5d1245eddd484142,20722,149,3,2021,>10k,<5k,top-2-10,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-1886,vim,vim,2a585c85013be22f59f184d49612074fd9b115d7,20722,166,10,2022,>10k,<5k,top-2-10,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-3973,vim,vim,615ddd5342b50a6878a907062aa471740bd9a847,20722,276,16,2021,>10k,<5k,top-11-100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-3297,vim,vim,0ff01835a40f549c5c4a550502f62a2ac9ac447c,20722,613,9,2022,>10k,<5k,top-2-10,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-2210,vim,vim,c101abff4c6756db4f5e740fde289decb9452efa,20722,232,19,2022,>10k,<5k,top-11-100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-4192,vim,vim,4c13e5e6763c6eb36a343a2b8235ea227202e952,20722,223,35,2021,>10k,<5k,top-11-100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-3984,vim,vim,2de9b7c7c8791da8853a9a7ca9c467867465b655,20722,199,26,2021,>10k,<5k,top-11-100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-1420,vim,vim,8b91e71441069b1dde9ac9ff9d9a829b1b4aecca,20722,247,3,2022,>10k,<5k,top-2-10,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-2183,vim,vim,8eba2bd291b347e3008aa9e565652d51ad638cfa,20722,163,16,2022,>10k,<5k,top-11-100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-3037,vim,vim,4f1b083be43f351bc107541e7b0c9655a5d2c0bb,20722,182,7,2022,>10k,<5k,top-2-10,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-10156,systemd,systemd,ee735086f8670be1591fa9593e80dd60163a7a2f,69687,265,12806,2016,>10k,<5k,>100,2015-2017,C,Unknown
+CVE-2017-9217,systemd,systemd,a924f43f30f9c4acaf70618dd2a055f8b0f166be,69687,41,3,2017,>10k,<5k,top-2-10,2015-2017,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2019-20386,systemd,systemd,b2774a3ae692113e1f47a336a6c09bac9cfb49ad,69687,48,5,2019,>10k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-3997,systemd,systemd,5b1cf7a9be37e20133c0208005274ce4a5b5c6a1,69687,1103,243,2021,>10k,<5k,>100,2021-2024,C,CWE-691: Insufficient Control Flow Management
+CVE-2022-2526,systemd,systemd,d973d94dec349fb676fdd844f6fe2ada3538f27c,69687,94,64,2022,>10k,<5k,top-11-100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-9060,qemu,qemu,dd248ed7e204ee8a1873914e02b8b526e8f1b80d,95630,29,2,2017,>10k,<5k,top-2-10,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-9374,qemu,qemu,d710e1e7bd3d5bfc26b631f02ae87901ebe646b0,95630,164,11,2017,>10k,<5k,top-11-100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-5856,qemu,qemu,765a707000e838c30b18d712fe6cb3dd8e0435f3,95630,152,1,2017,>10k,<5k,top-1,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-8576,qemu,qemu,05f43d44e4bc26611ce25fd7d726e483f73363ce,95630,202,3,2016,>10k,<5k,top-2-10,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-9106,qemu,qemu,fdfcc9aeea1492f4b819a24c94dfb678145b1bf9,95630,48,1,2016,>10k,<5k,top-1,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-7161,qemu,qemu,a0d1cbdacff5df4ded16b753b38fdd9da6092968,95630,66,1,2016,>10k,<5k,top-1,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2014-0143,qemu,qemu,509a41bab5306181044b5fff02eadf96d9c8676a,95630,229,2904,2014,>10k,<5k,>100,2012-2014,C,CWE-682: Incorrect Calculation
+CVE-2014-0146,qemu,qemu,11b128f4062dd7f89b14abc8877ff20d41b28be9,95630,267,1,2014,>10k,<5k,top-1,2012-2014,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2017-5898,qemu,qemu,c7dfbf322595ded4e70b626bf83158a9f3807c6a,95630,57,1,2017,>10k,<5k,top-1,2015-2017,C,CWE-682: Incorrect Calculation
+CVE-2012-6075,qemu,qemu,b0d9ffcd0251161c7c92f94804dcf599dfa3edeb,95630,121,1,2012,>10k,<5k,top-1,2012-2014,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-7863,FFmpeg,FFmpeg,e477f09d0b3619f3d29173b2cd593e17e2d1978e,97430,175,2207,2017,>10k,<5k,>100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2013-0855,FFmpeg,FFmpeg,3920d1387834e2bc334aff9f518f4beb24e470bd,97430,66,85,2013,>10k,<5k,top-11-100,2012-2014,C,Unknown
+CVE-2012-2790,FFmpeg,FFmpeg,2837d8dc276760db1821b81df3f794a90bfa56e6,97430,69,1,2012,>10k,<5k,top-1,2012-2014,C,Unknown
+CVE-2012-0853,FFmpeg,FFmpeg,9af6abdc17deb95c9b1f1d9242ba49b8b5e0b016,97430,52,193,2012,>10k,<5k,>100,2012-2014,C,CWE-707: Improper Neutralization
+CVE-2012-2789,FFmpeg,FFmpeg,97a5addfcf0029d0f5538ed70cb38cae4108a618,97430,92,5,2012,>10k,<5k,top-2-10,2012-2014,C,Unknown
+CVE-2014-9602,FFmpeg,FFmpeg,93a5a16f136d095d23610f57bdad10ba88120fba,97430,137,9,2014,>10k,<5k,top-2-10,2012-2014,C,Unknown
+CVE-2018-10001,FFmpeg,FFmpeg,47b7c68ae54560e2308bdb6be4fb076c73b93081,97430,199,258,2018,>10k,<5k,>100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-2213,FFmpeg,FFmpeg,0aada30510d809bccfd539a90ea37b61188f2cb4,97430,112,71,2016,>10k,<5k,top-11-100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-1999010,FFmpeg,FFmpeg,cced03dd667a5df6df8fd40d8de0bff477ee02e8,97430,304,169,2018,>10k,<5k,>100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2011-0480,FFmpeg,FFmpeg,13184036a6b1b1d4b61c91118c0896e9ad4634c3,97430,121,78,2011,>10k,<5k,top-11-100,2009-2011,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2015-8742,wireshark,wireshark,d48b0eff28c995947ac3f8d842ddd9b50dd5798d,198941,219,27,2015,>10k,<5k,top-11-100,2015-2017,C,CWE-707: Improper Neutralization
+CVE-2016-2522,wireshark,wireshark,9b2f3f7c5c9205381cb72e42b66e97d8ed3abf63,198941,170,1,2016,>10k,<5k,top-1,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2015-8723,wireshark,wireshark,40b283181c63cb28bc6f58d80315eccca6650da0,198941,162,71,2015,>10k,<5k,top-11-100,2015-2017,C,CWE-707: Improper Neutralization
+CVE-2014-6424,wireshark,wireshark,44698259b1f5865c60323acaf2a633654a2abe81,198941,41,777,2014,>10k,<5k,>100,2012-2014,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-17498,wireshark,wireshark,79576219c92e252c0700cdbe729bfb0fe6c72bd9,198941,177,5,2020,>10k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-9262,wireshark,wireshark,b434e0a03be45ed796af7271972672a0b43cffa8,198941,271,23,2018,>10k,<5k,top-11-100,2018-2020,C,CWE-707: Improper Neutralization
+CVE-2019-5717,wireshark,wireshark,3cccd4ec5b922e79afd134db4f0c9acb10bf7202,198941,235,15,2019,>10k,<5k,top-11-100,2018-2020,C,CWE-707: Improper Neutralization
+CVE-2019-9208,wireshark,wireshark,34873a20eb489562098c5a58085ae783f869525c,198941,708,7,2019,>10k,<5k,top-2-10,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2018-14368,wireshark,wireshark,a03eacc7aabd04a6fd0db978e0d7597220ac0515,198941,259,961,2018,>10k,<5k,>100,2018-2020,C,CWE-691: Insufficient Control Flow Management
+CVE-2015-8730,wireshark,wireshark,d2644aef369af0667220b5bd69996915b29d753d,198941,1278,1409,2015,>10k,<5k,>100,2015-2017,C,CWE-707: Improper Neutralization
+CVE-2016-7417,php,php-src,ecb7f58a069be0dec4a6131b6351a761f808f22e,231982,227,23,2016,>10k,<5k,top-11-100,2015-2017,C,CWE-707: Improper Neutralization
+CVE-2018-7584,php,php-src,523f230c831d7b33353203fa34aee4e92ac12bba,231982,150,15,2018,>10k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2013-4248,php,php-src,2874696a5a8d46639d261571f915c493cd875897,231982,599,75,2013,>10k,<5k,top-11-100,2012-2014,C,CWE-707: Improper Neutralization
+CVE-2016-7416,php,php-src,6d55ba265637d6adf0ba7e9c9ef11187d1ec2f5b,231982,29,57,2016,>10k,<5k,top-11-100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-3141,php,php-src,b1bd4119bcafab6f9a8f84d92cd65eec3afeface,231982,293,13,2016,>10k,<5k,top-11-100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2015-3329,php,php-src,f59b67ae50064560d7bfcdb0d6a8ab284179053c,231982,198,1,2015,>10k,<5k,top-1,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-3185,php,php-src,eaf4e77190d402ea014207e9a7d5da1a4f3727ba,231982,125,1,2016,>10k,<5k,top-1,2015-2017,C,CWE-707: Improper Neutralization
+CVE-2015-5589,php,php-src,bf58162ddf970f63502837f366930e44d6a992cf,231982,839,35,2015,>10k,<5k,top-11-100,2015-2017,C,CWE-707: Improper Neutralization
+CVE-2017-11147,php,php-src,e5246580a85f031e1a3b8064edbaa55c1643a451,231982,107,123,2017,>10k,<5k,>100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2014-3515,php,php-src,88223c5245e9b470e1e6362bfd96829562ffe6ab,231982,225,1,2014,>10k,<5k,top-1,2012-2014,C,Unknown
+CVE-2020-27153,bluez,bluez,1cd644db8c23a2f530ddb93cebed7dacc5f5721a,27990,315,219,2020,>10k,<5k,>100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-3658,bluez,bluez,b497b5942a8beb8f89ca1c359c54ad67ec843055,27990,261,51,2021,>10k,<5k,top-11-100,2021-2024,C,CWE-284: Improper Access Control
+CVE-2022-0204,bluez,bluez,591c546c536b42bef696d027f64aa22434f8c3f0,27990,162,855,2022,>10k,<5k,>100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-3905,openvswitch,ovs,803ed12e31b0377c37d7aa8c94b3b92f2081e349,20256,44,67,2021,>10k,<5k,top-11-100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-20456,radare,radare2,9b46d38dd3c4de6048a488b655c7319f845af185,32970,112,216,2018,>10k,<5k,>100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-16357,radare,radare2,0b973e28166636e0ff1fad80baa0385c9c09c53a,32970,98,15,2017,>10k,<5k,top-11-100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-6387,radare,radare2,ead645853a63bf83d8386702cad0cf23b31d7eeb,32970,95,7,2017,>10k,<5k,top-2-10,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-16359,radare,radare2,fbaf24bce7ea4211e4608b3ab6c1b45702cb243d,32970,195,7,2017,>10k,<5k,top-2-10,2015-2017,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2017-9520,radare,radare2,f85bc674b2a2256a364fe796351bc1971e106005,32970,215,3,2017,>10k,<5k,top-2-10,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-9761,radare,radare2,00e8f205475332d7842d0f0d1481eeab4e83017c,32970,230,128,2017,>10k,<5k,>100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-6194,radare,radare2,72794dc3523bbd5bb370de3c5857cb736c387e18,32970,181,27,2017,>10k,<5k,top-11-100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-19843,radare,radare2,f17bfd9f1da05f30f23a4dd05e9d2363e1406948,32970,75,126,2018,>10k,<5k,>100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-20460,radare,radare2,df167c7db545953bb7f71c72e98e7a3ca0c793bf,32970,55,59,2018,>10k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-12321,radare,radare2,224e6bc13fa353dd3b7f7a2334588f1c4229e58d,32970,111,1,2018,>10k,<5k,top-1,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-1222,gpac,gpac,7f060bbb72966cae80d6fee338d0b07fa3fc06e1,17194,124,10000,2022,>10k,<5k,>100,2021-2024,C,CWE-691: Insufficient Control Flow Management
+CVE-2020-19481,gpac,gpac,2320eb73afba753b39b7147be91f7be7afc0eeb7,17194,122,962,2020,>10k,<5k,>100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-32132,gpac,gpac,e74be5976a6fee059c638050a237893f7e9a3b23,17194,645,270,2021,>10k,<5k,>100,2021-2024,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2021-31259,gpac,gpac,3b84ffcbacf144ce35650df958432f472b6483f8,17194,42,109,2021,>10k,<5k,>100,2021-2024,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2021-40566,gpac,gpac,96047e0e6166407c40cc19f4e94fb35cd7624391,17194,355,90,2021,>10k,<5k,top-11-100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-40572,gpac,gpac,7bb1b4a4dd23c885f9db9f577dfe79ecc5433109,17194,52,142,2021,>10k,<5k,>100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-1441,gpac,gpac,3dbe11b37d65c8472faf0654410068e5500b3adb,17194,85,23,2022,>10k,<5k,top-11-100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-40567,gpac,gpac,f5a038e6893019ee471b6a57490cf7a495673816,17194,54,161,2021,>10k,<5k,>100,2021-2024,C,Unknown
+CVE-2021-30199,gpac,gpac,b2db2f99b4c30f96e17b9a14537c776da6cb5dca,17194,103,19,2021,>10k,<5k,top-11-100,2021-2024,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2021-30014,gpac,gpac,51cdb67ff7c5f1242ac58c5aa603ceaf1793b788,17194,532,33,2021,>10k,<5k,top-11-100,2021-2024,C,CWE-682: Incorrect Calculation
+CVE-2018-14363,neomutt,neomutt,9bfab35522301794483f8f9ed60820bdec9be59e,89039,228,143,2018,>10k,<5k,>100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-14350,neomutt,neomutt,1b0f0d0988e6df4e32e9f4bf8780846ea95d4485,89039,228,3,2018,>10k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-14353,neomutt,neomutt,65d64a5b60a4a3883f2cd799d92c6091d8854f23,89039,228,1,2018,>10k,<5k,top-1,2018-2020,C,CWE-682: Incorrect Calculation
+CVE-2018-14356,neomutt,neomutt,93b8ac558752d09e1c56d4f1bc82631316fa9c82,89039,228,156,2018,>10k,<5k,>100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-14351,neomutt,neomutt,3c49c44be9b459d9c616bcaef6eb5d51298c1741,89039,228,218,2018,>10k,<5k,>100,2018-2020,C,CWE-707: Improper Neutralization
+CVE-2018-14358,neomutt,neomutt,1b0f0d0988e6df4e32e9f4bf8780846ea95d4485,89039,228,5,2018,>10k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-14360,neomutt,neomutt,6296f7153f0c9d5e5cd3aaf08f9731e56621bdd3,89039,228,7,2018,>10k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-14354,neomutt,neomutt,95e80bf9ff10f68cb6443f760b85df4117cb15eb,89039,228,260,2018,>10k,<5k,>100,2018-2020,C,CWE-707: Improper Neutralization
+CVE-2018-14357,neomutt,neomutt,e52393740334443ae0206cab2d7caef381646725,89039,228,267,2018,>10k,<5k,>100,2018-2020,C,CWE-707: Improper Neutralization
+CVE-2018-14359,neomutt,neomutt,6f163e07ae68654d7ac5268cbb7565f6df79ad85,89039,228,85,2018,>10k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2014-9114,karelzak,util-linux,89e90ae7b2826110ea28c1c0eb8e7c56c3907bdc,18861,451,69,2014,>10k,<5k,top-11-100,2012-2014,C,CWE-707: Improper Neutralization
+CVE-2015-5224,karelzak,util-linux,bde91c85bdc77975155058276f99d2e0f5eab5a9,18861,600,1,2015,>10k,<5k,top-1,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-2616,karelzak,util-linux,dffab154d29a288aa171ff50263ecc8f2e14a891,18861,130,507,2017,>10k,<5k,>100,2015-2017,C,CWE-284: Improper Access Control
+CVE-2021-37600,karelzak,util-linux,1c9143d0c1f979c3daf10e1c37b5b1e916c22a1c,18861,51,62,2021,>10k,<5k,top-11-100,2021-2024,C,CWE-682: Incorrect Calculation
+CVE-2015-6563,openssh,openssh-portable,d4697fe9a28dab7255c60433e4dd23cf7fce8a8b,12853,73,29,2015,>10k,<5k,top-11-100,2015-2017,C,CWE-707: Improper Neutralization
+CVE-2015-6564,openssh,openssh-portable,5e75f5198769056089fb06c4d738ab0e5abc66f7,12853,65,19,2015,>10k,<5k,top-11-100,2015-2017,C,Unknown
+CVE-2016-6515,openssh,openssh-portable,fcd135c9df440bcd2d5870405ad3311743d78d97,12853,127,62,2016,>10k,<5k,top-11-100,2015-2017,C,CWE-707: Improper Neutralization
+CVE-2016-8858,openssh,openssh-portable,ec165c392ca54317dbe3064a8c200de6531e89ad,12853,81,35,2016,>10k,<5k,top-11-100,2015-2017,C,Unknown
+CVE-2018-20685,openssh,openssh-portable,6010c0303a422a9c5fa8860c061bf7105eb7f8b2,12853,117,17,2018,>10k,<5k,top-11-100,2018-2020,C,CWE-284: Improper Access Control
+CVE-2020-12062,openssh,openssh-portable,aad87b88fc2536b1ea023213729aaf4eaabe1894,12853,785,106,2020,>10k,<5k,>100,2018-2020,C,CWE-707: Improper Neutralization
+CVE-2021-28041,openssh,openssh-portable,e04fd6dde16de1cdc5a4d9946397ff60d96568db,12853,606,143,2021,>10k,<5k,>100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-31571,FreeRTOS,FreeRTOS-Kernel,47338393f1f79558f6144213409f09f81d7c4837,96994,228,20,2021,>10k,<5k,top-11-100,2021-2024,C,CWE-682: Incorrect Calculation
+CVE-2021-31572,FreeRTOS,FreeRTOS-Kernel,d05b9c123f2bf9090bce386a244fc934ae44db5b,96994,228,29,2021,>10k,<5k,top-11-100,2021-2024,C,CWE-682: Incorrect Calculation
+CVE-2021-32020,FreeRTOS,FreeRTOS-Kernel,c7a9a01c94987082b223d3e59969ede64363da63,96994,228,1,2021,>10k,<5k,top-1,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2012-1013,krb5,krb5,c5be6209311d4a8f10fda37d0d3f876c1b33b77b,20182,52,1,2012,>10k,<5k,top-1,2012-2014,C,Unknown
+CVE-2014-5354,krb5,krb5,04038bf3633c4b909b5ded3072dc88c8c419bf16,20182,234,1,2014,>10k,<5k,top-1,2012-2014,C,Unknown
+CVE-2015-2697,krb5,krb5,f0c094a1b745d91ef2f9a4eae2149aac026a5789,20182,72,1,2015,>10k,<5k,top-1,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2014-9421,krb5,krb5,a197e92349a4aa2141b5dff12e9dd44c2a2166e3,20182,90,1,2014,>10k,<5k,top-1,2012-2014,C,Unknown
+CVE-2015-8629,krb5,krb5,df17a1224a3406f57477bcd372c61e04c0e5a5bb,20182,80,1,2015,>10k,<5k,top-1,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2015-2694,krb5,krb5,e3b5a5e5267818c97750b266df50b6a3d4649604,20182,261,1,2015,>10k,<5k,top-1,2015-2017,C,Unknown
+CVE-2018-5730,krb5,krb5,e1caf6fb74981da62039846931ebdffed71309d1,20182,1336,1,2018,>10k,<5k,top-1,2018-2020,C,CWE-707: Improper Neutralization
+CVE-2018-20217,krb5,krb5,5e6d1796106df8ba6bc1973ee0917c170d929086,20182,218,7,2018,>10k,<5k,top-2-10,2018-2020,C,CWE-691: Insufficient Control Flow Management
+CVE-2017-11462,krb5,krb5,56f7b1bc95a2a3eeb420e069e7655fb181ade5cf,20182,1268,3,2017,>10k,<5k,top-2-10,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2014-9422,krb5,krb5,6609658db0799053fbef0d7d0aa2f1fd68ef32d8,20182,102,1,2014,>10k,<5k,top-1,2012-2014,C,CWE-284: Improper Access Control
+CVE-2015-0288,openssl,openssl,28a00bcd8e318da18031b2ac8778c64147cd54f9,35931,43,414,2015,>10k,<5k,>100,2015-2017,C,Unknown
+CVE-2015-1788,openssl,openssl,4924b37ee01f71ae19c94a8934b80eeb2f677932,35931,148,13,2015,>10k,<5k,top-11-100,2015-2017,C,Unknown
+CVE-2018-0739,openssl,openssl,4cabbb9f485ba7d1edcfbbd2aa8610159f94543e,35931,972,1,2018,>10k,<5k,top-1,2018-2020,C,CWE-691: Insufficient Control Flow Management
+CVE-2016-7052,openssl,openssl,8b7c51a0e4a03895a657cf2eb8d5c2aa1ca3586f,35931,91,1,2016,>10k,<5k,top-1,2015-2017,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2016-2109,openssl,openssl,c62981390d6cf9e3d612c489b8b77c2913b25807,35931,280,166,2016,>10k,<5k,>100,2015-2017,C,Unknown
+CVE-2014-3568,openssl,openssl,62f45cc27d07187b59551e4fad3db4e52ea73f2c,35931,272,154,2014,>10k,<5k,>100,2012-2014,C,Unknown
+CVE-2014-3505,openssl,openssl,bff1ce4e6a1c57c3d0a5f9e4f85ba6385fccfe8b,35931,97,65,2014,>10k,<5k,top-11-100,2012-2014,C,Unknown
+CVE-2016-0799,openssl,openssl,9cb177301fdab492e4cfef376b28339afe3ef663,35931,1535,1,2016,>10k,<5k,top-1,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2014-3508,openssl,openssl,0042fb5fd1c9d257d713b15a1f45da05cf5c1c87,35931,485,63,2014,>10k,<5k,top-11-100,2012-2014,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-2182,openssl,openssl,07bed46f332fce8c1d157689a2cdf915a982ae34,35931,153,1,2016,>10k,<5k,top-1,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-27764,ImageMagick,ImageMagick6,3e21bc8a58b4ae38d24c7e283837cc279f35b6a5,102583,228,1115,2020,>10k,<5k,>100,2018-2020,C,CWE-682: Incorrect Calculation
+CVE-2021-20224,ImageMagick,ImageMagick6,553054c1cb1e4e05ec86237afef76a32cd7c464d,102583,228,136,2021,>10k,<5k,>100,2021-2024,C,CWE-682: Incorrect Calculation
+CVE-2021-3574,ImageMagick,ImageMagick6,cd7f9fb7751b0d59d5a74b12d971155caad5a792,102583,228,363,2021,>10k,<5k,>100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-1115,ImageMagick,ImageMagick6,1f860f52bd8d58737ad883072203391096b30b51,102583,228,84,2022,>10k,<5k,top-11-100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-3213,ImageMagick,ImageMagick6,1aea203eb36409ce6903b9e41fe7cb70030e8750,102583,228,49,2022,>10k,<5k,top-11-100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-32545,ImageMagick,ImageMagick6,450949ed017f009b399c937cf362f0058eacc5fa,102583,228,653,2022,>10k,<5k,>100,2021-2024,C,CWE-682: Incorrect Calculation
+CVE-2022-32546,ImageMagick,ImageMagick6,29c8abce0da56b536542f76a9ddfebdaab5b2943,102583,228,578,2022,>10k,<5k,>100,2021-2024,C,CWE-682: Incorrect Calculation
+CVE-2022-32547,ImageMagick,ImageMagick6,dc070da861a015d3c97488fdcca6063b44d47a7b,102583,228,513,2022,>10k,<5k,>100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-20218,sqlite,sqlite,a6c1a71cde082e09750465d5675699062922e387,27244,325,58,2019,>10k,<5k,top-11-100,2018-2020,C,CWE-703: Improper Check or Handling of Exceptional Conditions
+CVE-2019-19603,sqlite,sqlite,527cbd4a104cb93bf3994b3dd3619a6299a78b13,27244,628,131,2019,>10k,<5k,>100,2018-2020,C,Unknown
+CVE-2019-19924,sqlite,sqlite,8654186b0236d556aa85528c2573ee0b6ab71be3,27244,354,1,2019,>10k,<5k,top-1,2018-2020,C,CWE-703: Improper Check or Handling of Exceptional Conditions
+CVE-2019-19242,sqlite,sqlite,57f7ece78410a8aae86aa4625fb7556897db384c,27244,403,17,2019,>10k,<5k,top-11-100,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2019-19926,sqlite,sqlite,8428b3b437569338a9d1e10c4cd8154acbe33089,27244,166,1,2019,>10k,<5k,top-1,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2019-19244,sqlite,sqlite,e59c562b3f6894f84c715772c4b116d7b5c01348,27244,297,1,2019,>10k,<5k,top-1,2018-2020,C,Unknown
+CVE-2019-19646,sqlite,sqlite,ebd70eedd5d6e6a890a670b5ee874a5eae86b4dd,27244,331,1,2019,>10k,<5k,top-1,2018-2020,C,CWE-703: Improper Check or Handling of Exceptional Conditions
+CVE-2019-19880,sqlite,sqlite,75e95e1fcd52d3ec8282edb75ac8cd0814095d54,27244,195,1,2019,>10k,<5k,top-1,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2019-19925,sqlite,sqlite,54d501092d88c0cf89bec4279951f548fb0b8618,27244,281,39,2019,>10k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-19923,sqlite,sqlite,396afe6f6aa90a31303c183e11b2b2d4b7956b35,27244,396,1,2019,>10k,<5k,top-1,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2021-3839,DPDK,dpdk,6442c329b9d2ded0f44b27d2016aaba8ba5844c5,49838,228,1,2021,>10k,<5k,top-1,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-0669,DPDK,dpdk,af74f7db384ed149fe42b21dbd7975f8a54ef227,49838,228,11,2022,>10k,<5k,top-11-100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2013-3722,OpenSIPS,opensips,54e027adfa486cfcf993828512b2e273aeb163c2,17865,27,71,2013,>10k,<5k,top-11-100,2012-2014,C,CWE-691: Insufficient Control Flow Management
+CVE-2017-17439,heimdal,heimdal,1a6a6e462dc2ac6111f9e02c6852ddec4849b887,30782,90,3,2017,>10k,<5k,top-2-10,2015-2017,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2017-6594,heimdal,heimdal,b1e699103f08d6a0ca46a122193c9da65f6cf837,30782,827,1,2017,>10k,<5k,top-1,2015-2017,C,CWE-284: Improper Access Control
+CVE-2021-3671,heimdal,heimdal,04171147948d0a3636bc6374181926f0fb2ec83a,30782,49,4,2021,>10k,<5k,top-2-10,2021-2024,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2014-3971,mongodb,mongo,c151e0660b9736fe66b224f1129a16871165251b,83653,121,308,2014,>10k,<5k,>100,2012-2014,C,CWE-707: Improper Neutralization
+CVE-2016-6494,mongodb,mongo,035cf2afc04988b22cb67f4ebfd77e9b344cb6e0,83653,737,5,2016,>10k,<5k,top-2-10,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-12248,mruby,mruby,778500563a9f7ceba996937dc886bd8cde29b42b,12087,230,9,2018,>10k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-0717,mruby,mruby,f72315575f78a9a773adbce0ee7d3ec33434cb76,12087,65,2,2022,>10k,<5k,top-2-10,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-1212,mruby,mruby,3cf291f72224715942beaf8553e42ba8891ab3c6,12087,51,1,2022,>10k,<5k,top-1,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-0614,mruby,mruby,ff3a5ebed6ffbe3e70481531cfb969b497aa73ad,12087,38,2,2022,>10k,<5k,top-2-10,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-0240,mruby,mruby,31fa3304049fc406a201a72293cce140f0557dca,12087,65,1,2022,>10k,<5k,top-1,2021-2024,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2022-0632,mruby,mruby,44f591aa8f7091e6ca6cb418e428ae6d4ceaf77d,12087,142,38,2022,>10k,<5k,top-11-100,2021-2024,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2022-0080,mruby,mruby,28ccc664e5dcd3f9d55173e9afde77c4705a9ab6,12087,70,10000,2022,>10k,<5k,>100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-10191,mruby,mruby,1905091634a6a2925c911484434448e568330626,12087,62,34,2018,>10k,<5k,top-11-100,2018-2020,C,CWE-682: Incorrect Calculation
+CVE-2022-0630,mruby,mruby,ff3a5ebed6ffbe3e70481531cfb969b497aa73ad,12087,38,4,2022,>10k,<5k,top-2-10,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-1106,mruby,mruby,7f5a490d09f4d56801ac3a3e4e39e03e1471b44c,12087,69,14,2022,>10k,<5k,top-11-100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-20909,LibreDWG,libredwg,d7913b893bfa98fab27f05825dc4cab2d3a20c83,103201,228,1050,2019,>10k,<5k,>100,2018-2020,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2019-20911,LibreDWG,libredwg,c6f6668b82bfe595899cc820279ac37bb9ef16f5,103201,228,5297,2019,>10k,<5k,>100,2018-2020,C,CWE-691: Insufficient Control Flow Management
+CVE-2019-20915,LibreDWG,libredwg,95cc9300430d35feb05b06a9badf678419463dbe,103201,228,3808,2019,>10k,<5k,>100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-36080,LibreDWG,libredwg,9b6e0ff9ef02818df034fc42c3bd149a5ff89342,103201,228,174,2021,>10k,<5k,>100,2021-2024,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2015-3152,mysql,mysql-server,3bd5589e1a5a93f9c224badf983cd65c45215390,616147,228,16,2015,>10k,<5k,top-11-100,2015-2017,C,CWE-284: Improper Access Control
+CVE-2016-0546,mysql,mysql-server,0dbd5a8797ed4bd18e8b883988fb62177eb0f73f,616147,228,1479,2016,>10k,<5k,>100,2015-2017,C,Unknown
+CVE-2016-6663,mysql,mysql-server,4e5473862e6852b0f3802b0cd0c6fa10b5253291,616147,228,210,2016,>10k,<5k,>100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2013-0178,antirez,redis,697af434fbeb2e3ba2ba9687cd283ed1a2734fa5,10876,1180,272,2013,>10k,<5k,>100,2012-2014,C,CWE-707: Improper Neutralization
+CVE-2015-4335,antirez,redis,fdf9d455098f54f7666c702ae464e6ea21e25411,10876,62,5,2015,>10k,<5k,top-2-10,2015-2017,C,Unknown
+CVE-2016-8339,antirez,redis,6d9f8e2462fc2c426d48c941edeb78e5df7d2977,10876,119,3,2016,>10k,<5k,top-2-10,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-11218,antirez,redis,5ccb6f7a791bf3490357b00a898885759d98bab0,10876,264,20,2018,>10k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-11219,antirez,redis,e89086e09a38cc6713bcd4b9c29abf92cf393936,10876,156,15,2018,>10k,<5k,top-11-100,2018-2020,C,CWE-682: Incorrect Calculation
+CVE-2020-14147,antirez,redis,ef764dde1cca2f25d00686673d1bc89448819571,10876,227,225,2020,>10k,<5k,>100,2018-2020,C,CWE-682: Incorrect Calculation
+CVE-2018-10017,OpenMPT,openmpt,7ebf02af2e90f03e0dbd0e18b8b3164f372fb97c,90259,228,1,2018,>10k,<5k,top-1,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-17113,OpenMPT,openmpt,927688ddab43c2b203569de79407a899e734fabe,90259,228,1,2019,>10k,<5k,top-1,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2015-0228,apache,httpd,78eb3b9235515652ed141353d98c239237030410,34064,198,1,2015,>10k,<5k,top-1,2015-2017,C,CWE-707: Improper Neutralization
+CVE-2015-0253,apache,httpd,be0f5335e3e73eb63253b050fdc23f252f5c8ae3,34064,178,17,2015,>10k,<5k,top-11-100,2015-2017,C,Unknown
+CVE-2015-3185,apache,httpd,db81019ab88734ed35fa70294a0cfa7a19743f73,34064,823,63,2015,>10k,<5k,top-11-100,2015-2017,C,Unknown
+CVE-2017-9798,apache,httpd,4cc27823899e070268b906ca677ee838d07cf67a,34064,161,668,2017,>10k,<5k,>100,2015-2017,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-4030,FreeRDP,FreeRDP,05cd9ea2290d23931f615c1b004d4b2e69074e27,16432,174,9,2020,>10k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-17178,FreeRDP,FreeRDP,9fee4ae076b1ec97b97efb79ece08d1dab4df29a,16432,616,1,2019,>10k,<5k,top-1,2018-2020,C,CWE-703: Improper Check or Handling of Exceptional Conditions
+CVE-2021-37595,FreeRDP,FreeRDP,0d79670a28c0ab049af08613621aa0c267f977e9,16432,66,1,2021,>10k,<5k,top-1,2021-2024,C,CWE-707: Improper Neutralization
+CVE-2013-4119,FreeRDP,FreeRDP,0773bb9303d24473fe1185d85a424dfe159aff53,16432,214,88,2013,>10k,<5k,top-11-100,2012-2014,C,CWE-710: Improper Adherence to Coding Standards
+CVE-2019-17177,FreeRDP,FreeRDP,9fee4ae076b1ec97b97efb79ece08d1dab4df29a,16432,616,9,2019,>10k,<5k,top-2-10,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-37594,FreeRDP,FreeRDP,0d79670a28c0ab049af08613621aa0c267f977e9,16432,66,1,2021,>10k,<5k,top-1,2021-2024,C,CWE-707: Improper Neutralization
+CVE-2018-8786,FreeRDP,FreeRDP,445a5a42c500ceb80f8fa7f2c11f3682538033f3,16432,67,1511,2018,>10k,<5k,>100,2018-2020,C,CWE-682: Incorrect Calculation
+CVE-2018-8789,FreeRDP,FreeRDP,2ee663f39dc8dac3d9988e847db19b2d7e3ac8c6,16432,308,1990,2018,>10k,<5k,>100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-4033,FreeRDP,FreeRDP,0a98c450c58ec150e44781c89aa6f8e7e0f571f5,16432,200,48,2020,>10k,<5k,top-11-100,2018-2020,C,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-21646,authzed,spicedb,15bba2e2d2a4bda336a37a7fe8ef8a35028cd970,4465,1145,18,2022,1k-5k,<5k,top-11-100,2021-2024,Go,CWE-707: Improper Neutralization
+CVE-2023-29193,authzed,spicedb,9bbd7d76b6eaba33fe0236014f9b175d21232999,4465,610,18,2023,1k-5k,<5k,top-11-100,2021-2024,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-46255,authzed,spicedb,ae50421b80f895e4c98d999b18e06b6f1e6f1cf8,4465,154,70,2023,1k-5k,<5k,top-11-100,2021-2024,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-27101,authzed,spicedb,ef443c442b96909694390324a99849b0407007fe,4465,82,4,2024,1k-5k,<5k,top-2-10,2021-2024,Go,CWE-682: Incorrect Calculation
+CVE-2024-32001,authzed,spicedb,a244ed1edfaf2382711dccdb699971ec97190c7b,4465,193,4,2024,1k-5k,<5k,top-2-10,2021-2024,Go,CWE-703: Improper Check or Handling of Exceptional Conditions
+CVE-2024-38361,authzed,spicedb,ecef31d2b266fde17eb2c3415e2ec4ceff96fbeb,4465,1088,17,2024,1k-5k,<5k,top-11-100,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2024-46989,authzed,spicedb,20855de75812bcbc975efebe7f76abf47c0f3edb|d4ef8e1dbce1eafaf25847f4c0f09738820f5bf2,4465,0,10000,2024,1k-5k,<5k,>100,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2023-30840,fluid-cloudnative,fluid,77c8110a3d1ec077ae2bce6bd88d296505db1550,2957,1753,25,2023,1k-5k,<5k,top-11-100,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2023-51699,fluid-cloudnative,fluid,02b7cd8b79a26092df95d625664994bda485c722,2957,1958,8,2023,1k-5k,<5k,top-2-10,2021-2024,Go,CWE-707: Improper Neutralization
+CVE-2021-20329,mongodb,mongo-go-driver,2aca31d5986a9e1c65a92264736de9fdc3b9b4ca,2240,930,247,2021,1k-5k,<5k,>100,2021-2024,Go,CWE-707: Improper Neutralization
+CVE-2024-39696,evmos,evmos,0a620e176617a835ac697eea494afea09185dfaf,1860,9811,7,2024,1k-5k,5k-15k,top-2-10,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2022-31022,blevesearch,bleve,1c7509d6a17d36f265c90b4e8f4e3a3182fe79ff,2804,126,2,2022,1k-5k,<5k,top-2-10,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2020-10750,jaegertracing,jaeger,360c38bec3f9718ebba7ddbf0b409b05995f3ace,3327,309,159,2020,1k-5k,<5k,>100,2018-2020,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-22460,ipld,go-ipld-prime,146d1c8529676fe9ee0604f014656af2395505fc,1328,906,1,2023,1k-5k,<5k,top-1,2021-2024,Go,CWE-707: Improper Neutralization
+CVE-2024-36127,chainguard-dev,apko,2c0533e4d52e83031a04f6a83ec63fc2a11eff01,2385,171,82,2024,1k-5k,<5k,top-11-100,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2022-39340,openfga,openfga,779d73d4b6d067ee042ec9b59fec707eed71e42f,1419,1295,56,2022,1k-5k,<5k,top-11-100,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2022-39341,openfga,openfga,b466769cc100b2065047786578718d313f52695b,1419,1293,63,2022,1k-5k,<5k,top-11-100,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2022-39342,openfga,openfga,c8db1ee3d2a366f18e585dd33236340e76e784c4,1419,1328,64,2022,1k-5k,<5k,top-11-100,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2022-39352,openfga,openfga,776e80505e8d184b2286acc8268d8d74f36a9984,1419,4187,7,2022,1k-5k,<5k,top-2-10,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2023-35933,openfga,openfga,087ce392595f3c319ab3028b5089118ea4063452,1419,5532,7,2023,1k-5k,5k-15k,top-2-10,2021-2024,Go,CWE-691: Insufficient Control Flow Management
+CVE-2023-43645,openfga,openfga,725296025fd81227c89525808652c6acd4a605f6,1419,4334,3,2023,1k-5k,<5k,top-2-10,2021-2024,Go,CWE-691: Insufficient Control Flow Management
+CVE-2024-23820,openfga,openfga,908ac85c8b7769c8042cca31886df8db01976c39,1419,3112,7,2024,1k-5k,<5k,top-2-10,2021-2024,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-31452,openfga,openfga,b6a6d99b2bdbf8c3781503989576076289f48ed2,1419,7107,4,2024,1k-5k,5k-15k,top-2-10,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2024-41888,apache,incubator-answer,2820efc454f5808974dce0aa99aac106be3f727b,4977,1556,12,2024,1k-5k,<5k,top-11-100,2021-2024,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-4053,helm,helm,b6bbe4f08bbb98eadd6c9cd726b08a5c639908b3,7908,662,29,2020,5k-10k,<5k,top-11-100,2018-2020,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-21303,helm,helm,6ce9ba60b73013857e2e7c73d3f86ed70bc1ac9a,7908,223,18,2021,5k-10k,<5k,top-11-100,2021-2024,Go,CWE-707: Improper Neutralization
+CVE-2020-15186,helm,helm,809e2d999e2c33e20e77f6bff30652d79c287542,7908,727,35,2020,5k-10k,<5k,top-11-100,2018-2020,Go,CWE-707: Improper Neutralization
+CVE-2022-36055,helm,helm,10466e3e179cc8cad4b0bb451108d3c442c69fbc,7908,211,52,2022,5k-10k,<5k,top-11-100,2021-2024,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-23525,helm,helm,638ebffbc2e445156f3978f02fd83d9af1e56f5b,7908,500,19,2022,5k-10k,<5k,top-11-100,2021-2024,Go,CWE-710: Improper Adherence to Coding Standards
+CVE-2020-15185,helm,helm,055dd41cbe53ce131ab0357524a7f6729e6e40dc,7908,424,50,2020,5k-10k,<5k,top-11-100,2018-2020,Go,CWE-707: Improper Neutralization
+CVE-2023-25165,helm,helm,5abcf74227bfe8e5a3dbf105fe62e7b12deb58d2,7908,69,3,2023,5k-10k,<5k,top-2-10,2021-2024,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-31145,flyteorg,flyteadmin,a1ec282d02706e074bc4986fd0412e5da3b9d00a,482,814,4,2022,<=1k,<5k,top-2-10,2021-2024,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-39273,flyteorg,flyteadmin,281172edf55fe6800959238fc128964ead6d9101,482,169,22,2022,<=1k,<5k,top-11-100,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2023-41891,flyteorg,flyteadmin,b3177ef70f068e908140b8a4a9913dfa74f289fd,482,5495,16,2023,<=1k,5k-15k,top-11-100,2021-2024,Go,CWE-707: Improper Neutralization
+CVE-2024-8572,gouniverse,cms,3e661cdfb4beeb9fe2ad507cdb8104c0b17d072c,238,256,10000,2024,<=1k,<5k,>100,2021-2024,Go,CWE-707: Improper Neutralization
+CVE-2024-35175,tg123,sshpiper,2ddd69876a1e1119059debc59fe869cb4e754430|70fb830dca26bea7ced772ce5d834a3e88ae7f53,672,0,10000,2024,<=1k,<5k,>100,2021-2024,Go,CWE-693: Protection Mechanism Failure
+CVE-2021-4239,flynn,noise,2499bf1bad239a8316c32932a993642350b3afdb,61,69,8,2021,<=1k,<5k,top-2-10,2021-2024,Go,CWE-693: Protection Mechanism Failure
+CVE-2023-33959,notaryproject,notation-go,39c8ed050a65cca3f3f308534acb612096735a64|eba60f5aed9c9e05dee55324423c95fe34700b4c,261,0,10000,2023,<=1k,<5k,>100,2021-2024,Go,CWE-693: Protection Mechanism Failure
+CVE-2022-23551,Azure,aad-pod-identity,7e01970391bde6c360d077066ca17d059204cb5d,795,518,133,2022,<=1k,<5k,>100,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2022-24825,stripe,smokescreen,fafb6ae48c6c40aa011d87b61306abc48db8797b,648,922,29,2022,<=1k,<5k,top-11-100,2021-2024,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-29188,stripe,smokescreen,dea7b3c89df000f4072ff9866d61d78e30df6a36,648,459,14,2022,<=1k,<5k,top-11-100,2021-2024,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-43809,charmbracelet,soft-serve,407c4ec72d1006cee1ff8c1775e5bcc091c2bc89,848,590,1,2023,<=1k,<5k,top-1,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2024-41956,charmbracelet,soft-serve,4daebdd422a6ba8c04162d023f8be355a8fe3184,848,49,12,2024,<=1k,<5k,top-11-100,2021-2024,Go,CWE-707: Improper Neutralization
+CVE-2021-32721,AndrewBurian,powermux,5e60a8a0372b35a898796c2697c40e8daabed8e9,118,620,2,2021,<=1k,<5k,top-2-10,2021-2024,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-25307,nothub,mrpack-install,a1f424b6a616d2de95228781eef3b92b9769f23c,350,252,29,2023,<=1k,<5k,top-11-100,2021-2024,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-1800,sjqzhang,go-fastdfs,61cbff5124c61e292994099372b11c06cdb5b80b,419,531,2,2023,<=1k,<5k,top-2-10,2021-2024,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-30850,tiagorlampert,CHAOS,1b451cf62582295b7225caf5a7b506f0bad56f6b|24c9e109b5be34df7b2bce8368eae669c481ed5e,303,0,10000,2024,<=1k,<5k,>100,2021-2024,Go,Unknown
+CVE-2024-33434,tiagorlampert,CHAOS,1b451cf62582295b7225caf5a7b506f0bad56f6b|24c9e109b5be34df7b2bce8368eae669c481ed5e|b47438d36e3ad746de8c009e644f6e5396703f25,303,0,10000,2024,<=1k,<5k,>100,2021-2024,Go,CWE-707: Improper Neutralization
+CVE-2019-20786,pion,dtls,fd73a5df2ff0e1fb6ae6a51e2777d7a16cc4f4e0,711,59,1,2019,<=1k,<5k,top-1,2018-2020,Go,CWE-284: Improper Access Control
+CVE-2022-29189,pion,dtls,a6397ff7282bc56dc37a68ea9211702edb4de1de,711,408,5,2022,<=1k,<5k,top-2-10,2021-2024,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-29190,pion,dtls,e0b2ce3592e8e7d73713ac67b363a2e192a4cecf,711,183,23,2022,<=1k,<5k,top-11-100,2021-2024,Go,CWE-691: Insufficient Control Flow Management
+CVE-2022-29222,pion,dtls,d2f797183a9f044ce976e6df6f362662ca722412,711,856,7,2022,<=1k,<5k,top-2-10,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2023-24533,FiloSottile,nistec,c58aa1223ccf3943513e1e661cebce95af137244,132,634,1,2023,<=1k,<5k,top-1,2021-2024,Go,CWE-682: Incorrect Calculation
+CVE-2024-32886,vitessio,vitess,9df4b66550e46b5d7079e21ed0e1b0f49f92b055,67224,228,33,2024,>10k,<5k,top-11-100,2021-2024,Go,CWE-691: Insufficient Control Flow Management
+CVE-2024-52522,rclone,rclone,01ccf204f42b4f68541b16843292439090a2dcf0,102626,228,1,2024,>10k,<5k,top-1,2021-2024,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2014-3499,docker,docker,707ef9618b3b26a0534a0af732a22f159eccfaa5,51442,186,3204,2014,>10k,<5k,>100,2012-2014,Go,Unknown
+CVE-2014-5277,docker,docker,8caacb18f8019dfda30d79c327397e5f5783c068,51442,156,3360,2014,>10k,<5k,>100,2012-2014,Go,Unknown
+CVE-2014-6407,docker,docker,3ac6394b8082d4700483d52fbfe54914be537d9e,51442,484,3880,2014,>10k,<5k,>100,2012-2014,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2014-6408,docker,docker,c9379eb3fbbc484c056f5a5e49d8d0b755a29c45,51442,462,8,2014,>10k,<5k,top-2-10,2012-2014,Go,Unknown
+CVE-2023-33964,multiversx,mx-chain-go,97295471465f4b5f79e51b32f8b7111f8d921606,32729,2188,751,2023,>10k,<5k,>100,2021-2024,Go,CWE-707: Improper Neutralization
+CVE-2023-34458,multiversx,mx-chain-go,babdb144f1316ab6176bf3dbd7d4621120414d43,32729,4641,522,2023,>10k,<5k,>100,2021-2024,Go,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-7558,juju,juju,ecd7e2d0e9867576b9da04871e22232f06fa0cc7,85339,228,10000,2024,>10k,<5k,>100,2021-2024,Go,CWE-693: Protection Mechanism Failure
+CVE-2024-8037,juju,juju,2f2ec128ef5a8ca81fc86ae79cfcdbab0007c206,85339,228,10000,2024,>10k,<5k,>100,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2024-8038,juju,juju,43f0fc59790d220a457d4d305f484f62be556d3b,85339,228,10000,2024,>10k,<5k,>100,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2024-36533,volcano-sh,volcano,55963f71c76cb85cea1cdb9582ea7d58cfbedcf8,81399,228,296,2024,>10k,<5k,>100,2021-2024,Go,CWE-284: Improper Access Control
+CVE-2019-12405,apache,trafficcontrol,f780aff77a52d52a37b4d1cc3e8e801c0b557356,12926,57,56,2019,>10k,<5k,top-11-100,2018-2020,Go,CWE-284: Improper Access Control
+CVE-2020-17522,apache,trafficcontrol,492290d810e9608afb5d265b98cd3f3e153e776b,12926,511,18,2020,>10k,<5k,top-11-100,2018-2020,Go,CWE-284: Improper Access Control
+CVE-2024-28213,naver,ngrinder,85efa4a075354e077a700262ef78e2e9119881bf,4952,255,15,2024,1k-5k,<5k,top-11-100,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-36812,OpenTSDB,opentsdb,07c4641471c6f5c2ab5aab615969e97211eb50d9|fa88d3e4b5369f9fb73da384fab0b23e246309ba,1712,0,10000,2023,1k-5k,<5k,>100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2022-4725,aws-amplify,aws-sdk-android,c3e6d69422e1f0c80fe53f2d757b8df97619af2b,1523,164,44,2022,1k-5k,<5k,top-11-100,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-17566,apache,xmlgraphics-batik,bc6078ca949039e2076cd08b4cb169c84c1179b1,3588,320,50,2019,1k-5k,<5k,top-11-100,2018-2020,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-11987,apache,xmlgraphics-batik,0ef5b661a1f77772d1110877ea9e0287987098f6,3588,64,2,2020,1k-5k,<5k,top-2-10,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2022-41704,apache,xmlgraphics-batik,905f368b50c2567cf2c4869a0ab596a7b1b5125c,3588,255,2,2022,1k-5k,<5k,top-2-10,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-42890,apache,xmlgraphics-batik,401aa8595f52d085d40ff5b6b4ac0dd372423082|52f7a1ad6e3110ec295a35ffc94410eef085707a|eada57c716a2757579d53017f8b2aeadaad20edd,3588,0,10000,2022,1k-5k,<5k,>100,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-44729,apache,xmlgraphics-batik,85b3457d9902f64d5d409a8da060d5ba47d0b69b|aaa1dd3e6b5a7df781d73e0c37a1df6a8f318893,3588,0,10000,2022,1k-5k,<5k,>100,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-44730,apache,xmlgraphics-batik,64658ccda90deaf6bf5f5b4d4a2ec365fe648bfa|f9ae69233eadfbd392a4a08a55618f97343b467c,3588,0,10000,2022,1k-5k,<5k,>100,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-1000416,jenkinsci,job-config-history-plugin,38ea4ed7e3527c2ce525dacf578036adffbf430e,1302,522,48,2018,1k-5k,<5k,top-11-100,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2022-36887,jenkinsci,job-config-history-plugin,536a97b8d649b3114f5db24ea32a7c63188a35c6,1302,345,29,2022,1k-5k,<5k,top-11-100,2021-2024,Java,CWE-693: Protection Mechanism Failure
+CVE-2023-41933,jenkinsci,job-config-history-plugin,3039470161ada86f4091c75fc779ebfdb69f3210,1302,220,3,2023,1k-5k,<5k,top-2-10,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-4520,wso2,carbon-registry,0c827cc1b14b82d8eb86117ab2e43c34bb91ddb4,1635,3024,12,2022,1k-5k,<5k,top-11-100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2022-4521,wso2,carbon-registry,9f967abfde9317bee2cda469dbc09b57d539f2cc,1635,3024,96,2022,1k-5k,<5k,top-11-100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2023-6911,wso2,carbon-registry,878fc7e53c90acc85e303d2af73440014a68b246,1635,3024,520,2023,1k-5k,<5k,>100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2023-48362,apache,drill,0e88b7a5101d24c561a2a3efb12d7a3b3f7933f3,4527,374,4,2023,1k-5k,<5k,top-2-10,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-1003000,jenkinsci,script-security-plugin,2c5122e50742dd16492f9424992deb21cc07837c,1371,761,22,2019,1k-5k,<5k,top-11-100,2018-2020,Java,Unknown
+CVE-2020-2190,jenkinsci,script-security-plugin,99e6ac0df5fe0f0cc6c2a695f7c1f845279bedbd,1371,241,1,2020,1k-5k,<5k,top-1,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2019-10431,jenkinsci,script-security-plugin,415b6e2f3fa0c2e4bd2f9c4a589a9e1fc9cbac8b,1371,109,5,2019,1k-5k,<5k,top-2-10,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2019-1003005,jenkinsci,script-security-plugin,35119273101af26792457ec177f34f6f4fa49d99,1371,228,9,2019,1k-5k,<5k,top-2-10,2018-2020,Java,Unknown
+CVE-2019-10394,jenkinsci,script-security-plugin,b28e4dc5584ef6515aeb9bc834691176546d0689,1371,219,14,2019,1k-5k,<5k,top-11-100,2018-2020,Java,Unknown
+CVE-2019-10399,jenkinsci,script-security-plugin,b28e4dc5584ef6515aeb9bc834691176546d0689,1371,219,1,2019,1k-5k,<5k,top-1,2018-2020,Java,Unknown
+CVE-2019-1003040,jenkinsci,script-security-plugin,8424ad90547e37a2bd3b6a3a7da48eb1af9cd0ee,1371,460,24,2019,1k-5k,<5k,top-11-100,2018-2020,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-10355,jenkinsci,script-security-plugin,5dc2e2465f309c772237a4b2de9caf61ba9b585b,1371,407,21,2019,1k-5k,<5k,top-11-100,2018-2020,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-1000866,jenkinsci,script-security-plugin,16c862ae9d4038a3edbd8bdfb0fd1401a509d56b,1371,361,44,2018,1k-5k,<5k,top-11-100,2018-2020,Java,CWE-284: Improper Access Control
+CVE-2019-10400,jenkinsci,script-security-plugin,b28e4dc5584ef6515aeb9bc834691176546d0689,1371,219,3,2019,1k-5k,<5k,top-2-10,2018-2020,Java,Unknown
+CVE-2019-17554,apache,olingo-odata4,5948974ad28271818e2afe747c71cde56a7f2c63|c3f982db3d97e395d313ae8f231202bb2139882c,1944,0,10000,2019,1k-5k,<5k,>100,2018-2020,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-5236,infinispan,protostream,4501b6b307a6bab545346f66238f8be7e42f83eb|4ef66958f2c4890ae1c6a7acd629d27bd88aa4cb|50320b5987dc87bc04b616b87e8cf93472ee19c1,1001,0,10000,2023,1k-5k,<5k,>100,2021-2024,Java,Unknown
+CVE-2013-5679,ESAPI,esapi-java-legacy,41138fef5f63d9cf0d5e05d2bee2c7f682ffef3f,2203,2791,29,2013,1k-5k,<5k,top-11-100,2012-2014,Java,Unknown
+CVE-2013-5960,ESAPI,esapi-java-legacy,b7cbc53f9cc967cf1a5a9463d8c6fef9ed6ef4f7,2203,859,981,2013,1k-5k,<5k,>100,2012-2014,Java,Unknown
+CVE-2022-23457,ESAPI,esapi-java-legacy,a0d67b75593878b1b6e39e2acc1773b3effedb2a,2203,106,234,2022,1k-5k,<5k,>100,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-34916,apache,flume,7fe9af49c485756e1b618493a5bc00b70d7fbd2d,2014,281,11,2022,1k-5k,<5k,top-11-100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2022-25167,apache,flume,dafb26ccb172141c6e14e95447e1b6ae38e9a7d0,2014,234,90,2022,1k-5k,<5k,top-11-100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2018-1000110,jenkinsci,git-plugin,a3d3a7eb7f75bfe97a0291e3b6d074aafafa86c9,5385,149,64,2018,5k-10k,<5k,top-11-100,2018-2020,Java,CWE-284: Improper Access Control
+CVE-2022-38663,jenkinsci,git-plugin,3241db9cc696711c871d4e78b3c3c0daad0740c3,5385,359,21,2022,5k-10k,<5k,top-11-100,2021-2024,Java,CWE-284: Improper Access Control
+CVE-2022-30949,jenkinsci,git-plugin,b295606e0b865c298fde27bea14f9b7535a976e6,5385,999,41,2022,5k-10k,<5k,top-11-100,2021-2024,Java,Unknown
+CVE-2022-36883,jenkinsci,git-plugin,b46165c74a0bf15e08763de2e506005624d5d238,5385,4191,55,2022,5k-10k,<5k,top-11-100,2021-2024,Java,CWE-284: Improper Access Control
+CVE-2022-36884,jenkinsci,git-plugin,b46165c74a0bf15e08763de2e506005624d5d238,5385,4191,57,2022,5k-10k,<5k,top-11-100,2021-2024,Java,CWE-284: Improper Access Control
+CVE-2021-21684,jenkinsci,git-plugin,5474cc942bfba60927be629ff47fb41c38c66741,5385,376,171,2021,5k-10k,<5k,>100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2019-1003010,jenkinsci,git-plugin,f9152d943936b1c6b493dfe750d27f0caa7c0767,5385,1379,143,2019,5k-10k,<5k,>100,2018-2020,Java,CWE-693: Protection Mechanism Failure
+CVE-2020-2136,jenkinsci,git-plugin,f581998be38cfed8e080c672c4b7caa8b4a45979,5385,234,95,2020,5k-10k,<5k,top-11-100,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2018-1000182,jenkinsci,git-plugin,87a03f3d9c4a0c0a918d91e173b200a6a3b237a7,5385,634,7,2018,5k-10k,<5k,top-2-10,2018-2020,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-30947,jenkinsci,git-plugin,b295606e0b865c298fde27bea14f9b7535a976e6,5385,999,42,2022,5k-10k,<5k,top-11-100,2021-2024,Java,Unknown
+CVE-2019-10770,ratpack,ratpack,a3cbb13be1527874528c3b99fc33517c0297b6d3,6464,219,11,2019,5k-10k,<5k,top-11-100,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2019-11808,ratpack,ratpack,f2b63eb82dd71194319fd3945f5edf29b8f3a42d,6464,90,23,2019,5k-10k,<5k,top-11-100,2018-2020,Java,CWE-693: Protection Mechanism Failure
+CVE-2019-17513,ratpack,ratpack,c560a8d10cb8bdd7a526c1ca2e67c8f224ca23ae|efb910d38a96494256f36675ef0e5061097dd77d,6464,0,10000,2019,5k-10k,<5k,>100,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2016-3087,apache,struts,6bd694b7980494c12d49ca1bf39f12aec3e03e2f,7897,68,210,2016,5k-10k,<5k,>100,2015-2017,Java,CWE-707: Improper Neutralization
+CVE-2012-0393,apache,struts,9cad25f258bb2629d263f828574d2671366c238d,7897,972,15,2012,5k-10k,<5k,top-11-100,2012-2014,Java,Unknown
+CVE-2013-1966,apache,struts,7e6f641ebb142663cbd1653dc49bed725edf7f56,7897,703,382,2013,5k-10k,<5k,>100,2012-2014,Java,CWE-707: Improper Neutralization
+CVE-2013-2135,apache,struts,041206d2a693d02c0cb2e72765275e55ba14049f|711cf0201cdd319a38cf29238913312355db29ba,7897,0,10000,2013,5k-10k,<5k,>100,2012-2014,Java,CWE-707: Improper Neutralization
+CVE-2014-0094,apache,struts,2e2da292166adbc78c4cb1e308b30ddb4fba6d3f|6315241719be167542962da436b38782ed730c62,7897,0,10000,2014,5k-10k,<5k,>100,2012-2014,Java,Unknown
+CVE-2012-0838,apache,struts,5f54b8d087f5125d96838aafa5f64c2190e6885b|b4265d369dc29d57a9f2846a85b26598e83f3892,7897,0,10000,2012,5k-10k,<5k,>100,2012-2014,Java,CWE-707: Improper Neutralization
+CVE-2016-2162,apache,struts,fc2179cf1ac9fbfb61e3430fa88b641d87253327,7897,444,210,2016,5k-10k,<5k,>100,2015-2017,Java,CWE-707: Improper Neutralization
+CVE-2011-2088,apache,struts,885ab3459e146ff830d1f7257f809f4a3dd4493a,7897,102,156,2011,5k-10k,<5k,>100,2009-2011,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2011-2087,apache,struts,1736b56db702c6639a6d5ae1146dba5a262e3344,7897,396,1,2011,5k-10k,<5k,top-1,2009-2011,Java,CWE-707: Improper Neutralization
+CVE-2022-31139,Karlatemp,UnsafeAccessor,4ef83000184e8f13239a1ea2847ee401d81585fd,67,100,10,2022,<=1k,<5k,top-2-10,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-2207,jenkinsci,vncviewer-plugin,99b2aa3ed0857ef35de9a3aca0b0c53add3b392d,98,50,16,2020,<=1k,<5k,top-11-100,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2023-37955,jenkinsci,test-results-aggregator-plugin,7dc29066d70af52cb3aa143783e8d2cb863fa4f7,661,92,103,2023,<=1k,<5k,>100,2021-2024,Java,CWE-693: Protection Mechanism Failure
+CVE-2018-1000149,jenkinsci,ansible-plugin,06d30e5b626a978e258a7f4ab473cd7f53a7cba7,506,1884,3,2018,<=1k,<5k,top-2-10,2018-2020,Java,Unknown
+CVE-2020-2310,jenkinsci,ansible-plugin,503be2bc90f78a726ca339ce9aaea044f23db14e,506,830,11,2020,<=1k,<5k,top-11-100,2018-2020,Java,Unknown
+CVE-2023-32982,jenkinsci,ansible-plugin,4cbc48657c21a65a917b3b3049918480198c0cfb,506,543,15,2023,<=1k,<5k,top-11-100,2021-2024,Java,CWE-693: Protection Mechanism Failure
+CVE-2023-32983,jenkinsci,ansible-plugin,4cbc48657c21a65a917b3b3049918480198c0cfb,506,543,15,2023,<=1k,<5k,top-11-100,2021-2024,Java,CWE-693: Protection Mechanism Failure
+CVE-2022-43420,jenkinsci,contrast-continuous-application-security-plugin,1babcd1e972a265527af12a9f85393d08937859c,533,315,6,2022,<=1k,<5k,top-2-10,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2018-1000183,jenkinsci,github-plugin,775a8be0d4f7238b33cbbda6508170ff34a90736,845,644,1,2018,<=1k,<5k,top-1,2018-2020,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-1000184,jenkinsci,github-plugin,9a20b7d74ec1bfa8afe260571485dec286b454a2,845,652,7,2018,<=1k,<5k,top-2-10,2018-2020,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-1000600,jenkinsci,github-plugin,ce7f5f2cb523757f2bf9ec362e1c8de1de447ec7,845,218,9,2018,<=1k,<5k,top-2-10,2018-2020,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-36885,jenkinsci,github-plugin,11d1d79ebf85248dc43432389746c1ecc3452b6a,845,104,30,2022,<=1k,<5k,top-11-100,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-46650,jenkinsci,github-plugin,9e09678c445613521c45acce0ce525160747ff3e,845,494,7,2023,<=1k,<5k,top-2-10,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2019-10432,jenkinsci,htmlpublisher-plugin,637aad0308f8cdfb24610041fcfe815d5a1a096b,423,111,37,2019,<=1k,<5k,top-11-100,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2024-28149,jenkinsci,htmlpublisher-plugin,8bf2e2297a86ad50f7567fb953b2f8ec18b2891b,423,1770,3,2024,<=1k,<5k,top-2-10,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2024-28150,jenkinsci,htmlpublisher-plugin,c0eed940e65ea90f9b5ba21aa3d953546d5cd8ad,423,2177,7,2024,<=1k,<5k,top-2-10,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2024-28151,jenkinsci,htmlpublisher-plugin,6b840248dd0d691bbac9b515cd750b3f925909b2,423,857,5,2024,<=1k,<5k,top-2-10,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-2093,jenkinsci,cloudbees-jenkins-advisor-plugin,f53fe8a41a1566fdd7d2996779f6c5684ef3e2df,372,126,8,2020,<=1k,<5k,top-2-10,2018-2020,Java,CWE-693: Protection Mechanism Failure
+CVE-2020-2094,jenkinsci,cloudbees-jenkins-advisor-plugin,f53fe8a41a1566fdd7d2996779f6c5684ef3e2df,372,126,8,2020,<=1k,<5k,top-2-10,2018-2020,Java,CWE-284: Improper Access Control
+CVE-2020-2258,jenkinsci,cloudbees-jenkins-advisor-plugin,90f693a4b9fc60292463ecd7aa06c2c53d9dea30,372,37,19,2020,<=1k,<5k,top-11-100,2018-2020,Java,CWE-284: Improper Access Control
+CVE-2024-23901,jenkinsci,gitlab-branch-source-plugin,969ccece8e2185ecdb7c342b27173af1ab17045c,718,799,5,2024,<=1k,<5k,top-2-10,2021-2024,Java,Unknown
+CVE-2024-23902,jenkinsci,gitlab-branch-source-plugin,5fa356ee852091af900498db07259afe78d7aad2,718,244,3,2024,<=1k,<5k,top-2-10,2021-2024,Java,CWE-693: Protection Mechanism Failure
+CVE-2024-23903,jenkinsci,gitlab-branch-source-plugin,8bfe1046cf342b99419457b9336addbbf346f89a,718,308,14,2024,<=1k,<5k,top-11-100,2021-2024,Java,CWE-697: Incorrect Comparison
+CVE-2021-21614,jenkinsci,bumblebee-plugin,7faf4bd6e702726bb7542f370cbdedcbfa340443,219,2463,3,2021,<=1k,<5k,top-2-10,2021-2024,Java,CWE-284: Improper Access Control
+CVE-2019-10306,jenkinsci,ontrack-plugin,7f0f806c18fdd6043103d848ba4c813cb805dd85,676,263,8,2019,<=1k,<5k,top-2-10,2018-2020,Java,Unknown
+CVE-2019-1003098,jenkinsci,openid-plugin,5a91a74a94e44d87cd61afc2441aab42b7542bf0,207,80,7,2019,<=1k,<5k,top-2-10,2018-2020,Java,CWE-693: Protection Mechanism Failure
+CVE-2019-1003099,jenkinsci,openid-plugin,5a91a74a94e44d87cd61afc2441aab42b7542bf0,207,80,3,2019,<=1k,<5k,top-2-10,2018-2020,Java,CWE-284: Improper Access Control
+CVE-2023-2195,jenkinsci,codedx-plugin,0214f30488ea8481f01e4b14a861e13d75bebb8b,293,400,2,2023,<=1k,<5k,top-2-10,2021-2024,Java,CWE-693: Protection Mechanism Failure
+CVE-2023-2196,jenkinsci,codedx-plugin,138932b362c7da3c310b1f34fc854c5bf5f52458,293,243,6,2023,<=1k,<5k,top-2-10,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-2631,jenkinsci,codedx-plugin,0214f30488ea8481f01e4b14a861e13d75bebb8b,293,400,2,2023,<=1k,<5k,top-2-10,2021-2024,Java,CWE-693: Protection Mechanism Failure
+CVE-2023-2632,jenkinsci,codedx-plugin,a971a75da3eaf0ab5344c2b60942e7c8809ec913,293,970,5,2023,<=1k,<5k,top-2-10,2021-2024,Java,CWE-284: Improper Access Control
+CVE-2023-2633,jenkinsci,codedx-plugin,a971a75da3eaf0ab5344c2b60942e7c8809ec913,293,970,13,2023,<=1k,<5k,top-11-100,2021-2024,Java,CWE-284: Improper Access Control
+CVE-2019-1003063,jenkinsci,snsnotify-plugin,874db1f2882aebb452c6d9dc0ad59efa6fd336db,82,1500,9,2019,<=1k,<5k,top-2-10,2018-2020,Java,CWE-693: Protection Mechanism Failure
+CVE-2018-1002201,zeroturnaround,zt-zip,759b72f33bc8f4d69f84f09fcb7f010ad45d6fff,467,727,1,2018,<=1k,<5k,top-1,2018-2020,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-10349,jenkinsci,depgraph-view-plugin,288496fd2e6fe922da3b43067e73cfac07a910e8,234,49,6,2019,<=1k,<5k,top-2-10,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2021-21632,jenkinsci,dependency-track-plugin,70e7b82ad9a10499e628998a0bcb57c1481c66bc,708,659,19,2021,<=1k,<5k,top-11-100,2021-2024,Java,CWE-284: Improper Access Control
+CVE-2021-21633,jenkinsci,dependency-track-plugin,70e7b82ad9a10499e628998a0bcb57c1481c66bc,708,659,28,2021,<=1k,<5k,top-11-100,2021-2024,Java,CWE-693: Protection Mechanism Failure
+CVE-2020-7692,googleapis,google-oauth-java-client,13433cd7dd06267fc261f0b1d4764f8e3432c824,835,2254,1,2020,<=1k,<5k,top-1,2018-2020,Java,CWE-284: Improper Access Control
+CVE-2021-22573,googleapis,google-oauth-java-client,c634ad4e31cac322bb1aa8a9feb0569749011bf0,835,432,60,2021,<=1k,<5k,top-11-100,2021-2024,Java,CWE-693: Protection Mechanism Failure
+CVE-2022-36897,jenkinsci,compuware-xpediter-code-coverage-plugin,2bb312d91f8dc20e7e1e2098584dbea65a9bffb6,156,105,5,2022,<=1k,<5k,top-2-10,2021-2024,Java,CWE-284: Improper Access Control
+CVE-2022-43424,jenkinsci,compuware-xpediter-code-coverage-plugin,e506fc9e77a2609f6a5aa331e052d35be652071c,156,25,18,2022,<=1k,<5k,top-11-100,2021-2024,Java,CWE-693: Protection Mechanism Failure
+CVE-2021-21234,lukashinsch,spring-boot-actuator-logview,1c76e1ec3588c9f39e1a94bf27b5ff56eb8b17d6|760acbb939a8d1f7d1a7dfcd51ca848eea04e772,89,0,10000,2021,<=1k,<5k,>100,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-10347,jenkinsci,mashup-portlets-plugin,05eb9bfd5c758c8c477ce6bd4315fd65d83e9a0a,119,395,12,2019,<=1k,<5k,top-11-100,2018-2020,Java,CWE-284: Improper Access Control
+CVE-2019-16553,jenkinsci,build-failure-analyzer-plugin,f316c885552ac75289cbb11b2af5757f18784bcb,860,602,18,2019,<=1k,<5k,top-11-100,2018-2020,Java,CWE-693: Protection Mechanism Failure
+CVE-2019-16554,jenkinsci,build-failure-analyzer-plugin,f316c885552ac75289cbb11b2af5757f18784bcb,860,602,3,2019,<=1k,<5k,top-2-10,2018-2020,Java,CWE-284: Improper Access Control
+CVE-2019-16555,jenkinsci,build-failure-analyzer-plugin,f316c885552ac75289cbb11b2af5757f18784bcb,860,602,18,2019,<=1k,<5k,top-11-100,2018-2020,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-2244,jenkinsci,build-failure-analyzer-plugin,c974938f213df0109269cb1b4508b8a1ec19f0ff,860,40,28,2020,<=1k,<5k,top-11-100,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2023-43501,jenkinsci,build-failure-analyzer-plugin,a261229a67c52927d531c48ec0a59bf138ebd4d0,860,725,15,2023,<=1k,<5k,top-11-100,2021-2024,Java,CWE-284: Improper Access Control
+CVE-2023-43502,jenkinsci,build-failure-analyzer-plugin,a261229a67c52927d531c48ec0a59bf138ebd4d0,860,725,14,2023,<=1k,<5k,top-11-100,2021-2024,Java,CWE-693: Protection Mechanism Failure
+CVE-2021-32731,xwiki,xwiki-platform,0cf716250b3645a5974c80d8336dcdf885749dff,70119,228,726,2021,>10k,<5k,>100,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-41931,xwiki,xwiki-platform,47eb8a5fba550f477944eb6da8ca91b87eaf1d01,70119,228,1374,2022,>10k,<5k,>100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2023-29207,xwiki,xwiki-platform,65ca06c51e7a1d5a579344c7272b2cc9a9a21126,70119,228,5495,2023,>10k,<5k,>100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2023-35151,xwiki,xwiki-platform,824cd742ecf5439971247da11bfe7e0ad2b10ede,70119,228,496,2023,>10k,<5k,>100,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-50723,xwiki,xwiki-platform,0f367aaae4e0696f61cf5a67a75edd27d1d16db6|1157c1ecea395aac7f64cd8a6f484b1225416dc7|749f6aee1bfbcf191c3734ea0aa9eba3aa63240e|bd82be936c21b65dee367d558e3050b9b6995713,70119,228,10000,2023,>10k,<5k,>100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2024-41947,xwiki,xwiki-platform,821d43ec45e67d45a6735a0717b9b77fffc1cd9f,70119,228,3393,2024,>10k,<5k,>100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2023-29202,xwiki,xwiki-platform,5c7ebe47c2897e92d8f04fe2e15027e84dc3ec03,70119,228,1,2023,>10k,<5k,top-1,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2023-29507,xwiki,xwiki-platform,905cdd7c421dbf8c565557cdc773ab1aa9028f83,70119,228,11,2023,>10k,<5k,top-11-100,2021-2024,Java,CWE-284: Improper Access Control
+CVE-2022-23615,xwiki,xwiki-platform,7ab0fe7b96809c7a3881454147598d46a1c9bbbe,70119,228,923,2022,>10k,<5k,>100,2021-2024,Java,CWE-284: Improper Access Control
+CVE-2024-37898,xwiki,xwiki-platform,c5efc1e519e710afdf3c5f40c0fcc300ad77149f,70119,228,487,2024,>10k,<5k,>100,2021-2024,Java,CWE-284: Improper Access Control
+CVE-2023-29014,intranda,goobi-viewer-core,c29efe60e745a94d03debc17681c4950f3917455,570002,228,176,2023,>10k,<5k,>100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2023-29015,intranda,goobi-viewer-core,f0ccde2d469efd9597c3062d00177a63341f2256,570002,228,79,2023,>10k,<5k,top-11-100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2023-29016,intranda,goobi-viewer-core,8eadb32b3fdcb775678b74d95bc3df018a5d5238,570002,228,207,2023,>10k,<5k,>100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2021-21671,jenkinsci,jenkins,25a42f3942fd9f8bd768c887c679dbc796b4fcd5,30736,903,153,2021,>10k,<5k,>100,2021-2024,Java,Unknown
+CVE-2024-43044,jenkinsci,jenkins,5d26b53ad3a5cd8c4a060eef4f56d75e65ca17a5,30736,2115,3,2024,>10k,<5k,top-2-10,2021-2024,Java,CWE-703: Improper Check or Handling of Exceptional Conditions
+CVE-2019-10405,jenkinsci,jenkins,560ee832b41814660c5632ea36ad1a1c977177bf,30736,104,92,2019,>10k,<5k,top-11-100,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2020-2230,jenkinsci,jenkins,e49f690939596acbc9a1be64128b2c7eaf91a6db,30736,46,358,2020,>10k,<5k,>100,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2018-1999042,jenkinsci,jenkins,727d58f690abf64f543407e1de3545eca76ad30e,30736,1397,122,2018,>10k,<5k,>100,2018-2020,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-1000395,jenkinsci,jenkins,7b1f8e96a8d97dd09e5e093fcdb010b3295acc77,30736,222,75,2017,>10k,<5k,top-11-100,2015-2017,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-27902,jenkinsci,jenkins,80452662b31ac6c9f4418cffae1af6af4daf479a,30736,7962,76,2023,>10k,5k-15k,top-11-100,2021-2024,Java,Unknown
+CVE-2020-2105,jenkinsci,jenkins,639ade55caa05324c60d15b2fa8df27ee0111b76,30736,787,477,2020,>10k,<5k,>100,2018-2020,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-1000169,jenkinsci,jenkins,69a784bb8d2c5a021d225eda2d392fb081c1169e,30736,620,88,2018,>10k,<5k,top-11-100,2018-2020,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-21607,jenkinsci,jenkins,a890d68699ad6ca0c8fbc297a1d4b7ebf23f384b,30736,545,95,2021,>10k,<5k,top-11-100,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2014-8125,droolsjbpm,drools,c48464c3b246e6ef0d4cd0dbf67e83ccd532c6d3,17443,152,1,2014,>10k,<5k,top-1,2012-2014,Java,Unknown
+CVE-2017-1000217,opencast,opencast,2d42e42f3cfcff3a775a2538f735fca8542ce1fc|fba2f35df24ce2aeaff627200065cbade9b3a0cd,53488,228,10000,2017,>10k,<5k,>100,2015-2017,Java,CWE-707: Improper Neutralization
+CVE-2020-26234,opencast,opencast,4225bf90af74557deaf8fb6b80b0705c9621acfc,53488,648,1,2020,>10k,<5k,top-1,2018-2020,Java,CWE-693: Protection Mechanism Failure
+CVE-2021-32623,opencast,opencast,16b0d641713fe31b8518fcf14fc5e4e815d81206|8ae27da5a6f658011a5741b3210e715b0dc6213e,53488,228,10000,2021,>10k,<5k,>100,2021-2024,Java,CWE-691: Insufficient Control Flow Management
+CVE-2020-5230,opencast,opencast,bbb473f34ab95497d6c432c81285efb0c739f317,53488,249,3,2020,>10k,<5k,top-2-10,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2021-43821,opencast,opencast,65c46b9d3e8f045c544881059923134571897764,53488,297,141,2021,>10k,<5k,>100,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-1000221,opencast,opencast,f1abcaf998a469a2081461e0e3b4211927849439,53488,99,6718,2017,>10k,<5k,>100,2015-2017,Java,CWE-284: Improper Access Control
+CVE-2020-5231,opencast,opencast,72fad0031d8a82c860e2bde0b27570c5042320ee,53488,107,1,2020,>10k,<5k,top-1,2018-2020,Java,CWE-284: Improper Access Control
+CVE-2020-5222,opencast,opencast,1a7172c95af8d542a77ae5b153e4c834dd4788a6,53488,838,1,2020,>10k,<5k,top-1,2018-2020,Java,CWE-284: Improper Access Control
+CVE-2018-16153,opencast,opencast,776d5588f39c61eb04c03bb955416c4f77629d51,53488,1084,21,2018,>10k,<5k,top-11-100,2018-2020,Java,CWE-284: Improper Access Control
+CVE-2021-43807,opencast,opencast,59cb6731067283e54f15462be38b6117d8b9ea8b|8f8271e1085f6f8e306c689d6a56b0bb8d076444,53488,228,10000,2021,>10k,<5k,>100,2021-2024,Java,CWE-284: Improper Access Control
+CVE-2008-1947,apache,tomcat,49c71fc59c1b8f8da77aea9eb53e61db168aebab|5f00d434c8dc11bd49ce0b4b56fe889839056030|78ad0fcbe29c824f1f2e45a4e2716247b033250a|ab6a6c41ac972c845717c9d639f0335865afab4d,80454,228,10000,2008,>10k,<5k,>100,2009-2011,Java,CWE-707: Improper Neutralization
+CVE-2017-5651,apache,tomcat,494429ca210641b6b7affe89a2b0a6c0ff70109b|9233d9d6a018be4415d4d7d6cb4fe01176adf1a8,80454,228,10000,2017,>10k,<5k,>100,2015-2017,Java,Unknown
+CVE-2014-0227,apache,tomcat,593a2447e6ebe465585cfa07e93b5635dffa1c70,80454,1070,147,2014,>10k,<5k,>100,2012-2014,Java,Unknown
+CVE-2020-11996,apache,tomcat,9434a44d3449d620b1be70206819f8275b4a7509|9a0231683a77e2957cea0fdee88b193b30b0c976|c8acd2ab7371e39aeca7c306f3b5380f00afe552,80454,228,10000,2020,>10k,<5k,>100,2018-2020,Java,Unknown
+CVE-2010-2227,apache,tomcat,40e5880dfc51517334acda5f12beacdec52ca283,80454,206,932,2010,>10k,<5k,>100,2009-2011,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-8037,apache,tomcat,4c04369c287233ea2e8e5135f6c31d02e2d76293|ccf2e6bf5205561ad18c2300153e9173ec509d73|ed4b9d791f9470e4c3de691dd0153a9ce431701b|f94eedf02b5973598ab3dbbd4504da588e9ba6cb,80454,228,10000,2018,>10k,<5k,>100,2018-2020,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2011-1088,apache,tomcat,02780bbc6089a12b19d3d5e5dc810455ac6bfe92|0a5a19f0c3b8d199b7335da5f88e956f59926673|0f95cb7401acdbfc9b65c878948b84bb496f2386|0ff4905158b77787a7f3aca55c9dec93456665dc|13fe121edb6f2b597d2b82725f1b01296ac78ebd|149af600532df6a24b1f7fc93607d764dfc9a7ea|1b2d5e90d271ab087a36b556eb17519454170529|2d7dbfe4c63a4242a9b28fdb662d91ceb7a84630|3ac2b5c1611af51ee5438fd32a3254a2de1878ce|3e5b0455483eed55752047073e92403bfca8d3ec|5c8560f3054982abaa476d87ec031c439d58d66e|63fd724e129b647b7d9026ae29513dd6b774b4b5|880b1a4fc424625b56c8bcd9ebf6bfe966a1dadd|9c90bdc1ad942374b1bb6b147613497970b3c8e1|b1d1047a4c0a7754cabf57ac0303f92e4e77ef58|dbac5e24759954daed3c584abb5d466fcf42dd4b|dd10265436ea8b2fe35f1a8b09bc7390acbea269|ece65c1a428094b1c6c17de3d7593f64e1bb1286|ee627412570268df47a075f5d4dc5f7debf39fad|f528992ec6cd7b62c9ced5b3a7dc4cda6bfd1a5e,80454,228,10000,2011,>10k,<5k,>100,2009-2011,Java,Unknown
+CVE-2011-3190,apache,tomcat,a2538ce78f83b7376c48d12d8247600079d789b1,80454,327,51,2011,>10k,<5k,top-11-100,2009-2011,Java,Unknown
+CVE-2017-7674,apache,tomcat,52382ebfbce20a98b01cd9d37184a12703987a5a|9044c1672bbe4b2cf4c55028cc8b977cc62650e7|b94478d45b7e1fc06134a785571f78772fa30fed,80454,228,10000,2017,>10k,<5k,>100,2015-2017,Java,CWE-693: Protection Mechanism Failure
+CVE-2011-0013,apache,tomcat,58223c5ecc0751c3642c810f291b8f033d33b97f,80454,432,2711,2011,>10k,<5k,>100,2009-2011,Java,CWE-707: Improper Neutralization
+CVE-2022-1245,keycloak,keycloak,76d83f46fad94ebcbedaa49e6daad458e2894e52,27405,2729,430,2022,>10k,<5k,>100,2021-2024,Java,CWE-284: Improper Access Control
+CVE-2020-35509,keycloak,keycloak,478319348bdfdb9b6d39122f41edf2af79f679bb,27405,215,937,2020,>10k,<5k,>100,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2018-10894,keycloak,keycloak,812e76c39b1e693e8f11e5549cca2c90631f372e,27405,1548,483,2018,>10k,<5k,>100,2018-2020,Java,CWE-693: Protection Mechanism Failure
+CVE-2019-14837,keycloak,keycloak,9a7c1a91a59ab85e7f8889a505be04a71580777f,27405,173,284,2019,>10k,<5k,>100,2018-2020,Java,CWE-710: Improper Adherence to Coding Standards
+CVE-2024-10451,keycloak,keycloak,198214310eb45b86707f823ccb5a2d65c814b528,27405,558,38,2024,>10k,<5k,top-11-100,2021-2024,Java,CWE-284: Improper Access Control
+CVE-2024-10492,keycloak,keycloak,d60cb9aaefc4035d322862edd8f9f252af6da951,27405,1866,115,2024,>10k,<5k,>100,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-20222,keycloak,keycloak,3b80eee5bfdf2b80c47465c0f2eaf70074808741,27405,545,88,2021,>10k,<5k,top-11-100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2021-3856,keycloak,keycloak,73f0474008e1bebd0733e62a22aceda9e5de6743,27405,256,1,2021,>10k,<5k,top-1,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-20195,keycloak,keycloak,717d9515fa131e3d8c8936e41b2e52270fdec976,27405,156,395,2021,>10k,<5k,>100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2023-6563,keycloak,keycloak,556146f961f7c8ddf64de15e2117a58d045f72b5,27405,479,961,2023,>10k,<5k,>100,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-1941,apache,activemq,81bd743eaa243f0cc5dfbb1342cee1fef1fc5df2,11977,279,11,2020,>10k,<5k,top-11-100,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2013-3060,apache,activemq,22bc55b9487df98a3c3cb04f99f4618fcba364fe|437ea2f6e58d18837ae0e68dcd2fdadc1fff3723|ced33d2551a040813cb40bd6d36fdd322034fa73,11977,0,10000,2013,>10k,<5k,>100,2012-2014,Java,CWE-284: Improper Access Control
+CVE-2013-1879,apache,activemq,148ca81dcd8f14cfe2ff37012fd1aa42518f02dc,11977,133,28,2013,>10k,<5k,top-11-100,2012-2014,Java,CWE-707: Improper Neutralization
+CVE-2020-13920,apache,activemq,58382283330f7c7b110c7afd8ef4ca2648786532,11977,107,868,2020,>10k,<5k,>100,2018-2020,Java,CWE-284: Improper Access Control
+CVE-2018-8006,apache,activemq,d8c80a98212ee5d73a281483a2f8b3f517465f62,11977,38,26,2018,>10k,<5k,top-11-100,2018-2020,Java,CWE-707: Improper Neutralization
+CVE-2014-3576,apache,activemq,00921f22ff9a8792d7663ef8fadd4823402a6324,11977,51,76,2014,>10k,<5k,top-11-100,2012-2014,Java,Unknown
+CVE-2013-1880,apache,activemq,fafd12dfd4f71336f8e32c090d40ed1445959b40,11977,119,15,2013,>10k,<5k,top-11-100,2012-2014,Java,CWE-707: Improper Neutralization
+CVE-2011-4905,apache,activemq,3a71f8e33d0309cb0ca5b5758a8f251da205e757|9df9d3e89140b7329654ad5675259ec6f0c4b3a7|da7f9962c640666a743675085922bf75a656f81b,11977,0,10000,2011,>10k,<5k,>100,2009-2011,Java,Unknown
+CVE-2023-46604,apache,activemq,80089f9f476afab7d976f5fc37c5ab4aa0c2139d,11977,163,5,2023,>10k,<5k,top-2-10,2021-2024,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-3088,apache,activemq,3dd86d04e8b90ba309819317d19e7260d414d9e7,11977,6026,13,2016,>10k,5k-15k,top-11-100,2015-2017,Java,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-44585,jeecgboot,jeecg-boot,dbba190980fe44ab5377703dc1a9487806ee2a91,52430,228,8,2021,>10k,<5k,top-2-10,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2021-46089,jeecgboot,jeecg-boot,baefc1338dd03de36384ce7d5846b08041b488d0,52430,228,2,2021,>10k,<5k,top-2-10,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2022-45206,jeecgboot,jeecg-boot,f18ced524c9ec13e876bfb74785a1b112cc8b6bb,52430,228,16,2022,>10k,<5k,top-11-100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2022-45207,jeecgboot,jeecg-boot,8632a835c23f558dfee3584d7658cc6a13ccec6f|958cf01649e67c79887c21f9c0ada42b552b7ee3,52430,228,10000,2022,>10k,<5k,>100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2022-45208,jeecgboot,jeecg-boot,51e2227bfe54f5d67b09411ee9a336750164e73d,52430,228,1,2022,>10k,<5k,top-1,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2022-45210,jeecgboot,jeecg-boot,51e2227bfe54f5d67b09411ee9a336750164e73d,52430,228,1,2022,>10k,<5k,top-1,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2022-47105,jeecgboot,jeecg-boot,0fc374de4745eac52620eeb8caf6a7b76127529a,52430,228,5,2022,>10k,<5k,top-2-10,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2023-34602,jeecgboot,jeecg-boot,dd7bf104e7ed59142909567ecd004335c3442ec5,52430,228,1,2023,>10k,<5k,top-1,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2023-38992,jeecgboot,jeecg-boot,648e66d5ef1547a01ff77bf9875f960ca39bbe8e,52430,228,23,2023,>10k,<5k,top-11-100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2023-40989,jeecgboot,jeecg-boot,473875a9d261780a3400cf6f8260ca441b768ed1|87677df925e55e51233bf740433b30a751fc7705,52430,228,10000,2023,>10k,<5k,>100,2021-2024,Java,CWE-707: Improper Neutralization
+CVE-2023-3348,cloudflare,workers-sdk,fddffdf0c23d2ca56f2139a2c6bc278052594cba,4584,264,17,2023,1k-5k,<5k,top-11-100,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-7079,cloudflare,workers-sdk,29df8e17545bf3926b6d61678b596be809d40c6d|311ffbd5064f8301ac6f0311bbe5630897923b93,4584,0,10000,2023,1k-5k,<5k,>100,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2023-7080,cloudflare,workers-sdk,05b1bbd2f5b8e60268e30c276067c3a3ae1239cf|29df8e17545bf3926b6d61678b596be809d40c6d|63708a94fb7a055bf15fa963f2d598b47b11d3c0,4584,0,10000,2023,1k-5k,<5k,>100,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2013-7370,senchalabs,connect,126187c4e12162e231b87350740045e5bb06e93a|277e5aad6a95d00f55571a9a0e11f2fa190d8135,3652,0,10000,2013,1k-5k,<5k,>100,2012-2014,JavaScript,CWE-707: Improper Neutralization
+CVE-2013-7371,senchalabs,connect,126187c4e12162e231b87350740045e5bb06e93a|277e5aad6a95d00f55571a9a0e11f2fa190d8135,3652,0,10000,2013,1k-5k,<5k,>100,2012-2014,JavaScript,CWE-707: Improper Neutralization
+CVE-2018-3717,senchalabs,connect,6d5dd30075d2bc4ee97afdbbe3d9d98d8d52d74b,3652,3959,740,2018,1k-5k,<5k,>100,2018-2020,JavaScript,CWE-707: Improper Neutralization
+CVE-2021-23390,totaljs,framework4,8a72d8c20f38bbcac031a76a51238aa528f68821,2459,696,54,2021,1k-5k,<5k,top-11-100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2023-30094,totaljs,framework4,e2cea690c3fe4453e94da896a69f832511f65179,2459,148,109,2023,1k-5k,<5k,>100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2018-3711,fastify,fastify,fabd2a011f2ffbb877394abe699f549513ffbd76,4305,1528,133,2018,1k-5k,<5k,>100,2018-2020,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-39288,fastify,fastify,fbb07e8dfad74c69cd4cd2211aedab87194618e3,4305,722,23,2022,1k-5k,<5k,top-11-100,2021-2024,JavaScript,CWE-703: Improper Check or Handling of Exceptional Conditions
+CVE-2022-41919,fastify,fastify,62dde76f1f7aca76e38625fe8d983761f26e6fc9,4305,1444,8,2022,1k-5k,<5k,top-2-10,2021-2024,JavaScript,CWE-693: Protection Mechanism Failure
+CVE-2023-4696,usememos,memos,c9aa2eeb9852047e4f41915eb30726bd25f07ecd,3309,64,141,2023,1k-5k,<5k,>100,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2023-0106,usememos,memos,0f8ce3dd1696722f951d7195ad1f88b39a5d15d7,3309,5423,9,2023,1k-5k,5k-15k,top-2-10,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2022-4734,usememos,memos,05b41804e33a34102f1f75bb2d69195dda6a1210,3309,40,2,2022,1k-5k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-4799,usememos,memos,3556ae4e651d9443dc3bb8a170dd3cc726517a53,3309,3709,4,2022,1k-5k,<5k,top-2-10,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2022-4684,usememos,memos,dca35bde877aab6e64ef51b52e590b5d48f692f9,3309,147,6,2022,1k-5k,<5k,top-2-10,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2022-4847,usememos,memos,c9bb2b785dc5852655405d5c9ab127a2d5aa3948,3309,77,10,2022,1k-5k,<5k,top-2-10,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2022-4609,usememos,memos,726285e63467820f94cbf872abe71025a161c212,3309,64,3,2022,1k-5k,<5k,top-2-10,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2022-4798,usememos,memos,3556ae4e651d9443dc3bb8a170dd3cc726517a53,3309,3709,4,2022,1k-5k,<5k,top-2-10,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2022-4797,usememos,memos,3556ae4e651d9443dc3bb8a170dd3cc726517a53,3309,3709,4,2022,1k-5k,<5k,top-2-10,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2022-4845,usememos,memos,c9bb2b785dc5852655405d5c9ab127a2d5aa3948,3309,77,7,2022,1k-5k,<5k,top-2-10,2021-2024,JavaScript,CWE-693: Protection Mechanism Failure
+CVE-2022-31151,nodejs,undici,0a5bee9465e627be36bac88edf7d9bbc9626126d,3302,438,53,2022,1k-5k,<5k,top-11-100,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-45143,nodejs,undici,e041de359221ebeae04c469e8aff4145764e6d76,3302,223,27,2023,1k-5k,<5k,top-11-100,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-35949,nodejs,undici,124f7ebf705366b2e1844dff721928d270f87895,3302,749,32,2022,1k-5k,<5k,top-11-100,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-35948,nodejs,undici,66165d604fd0aee70a93ed5c44ad4cc2df395f80,3302,183,14,2022,1k-5k,<5k,top-11-100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2024-30260,nodejs,undici,6805746680d27a5369d7fb67bc05f95a28247d75,3302,273,78,2024,1k-5k,<5k,top-11-100,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2024-38372,nodejs,undici,f979ec3204ca489abf30e7d20e9fee9ea7711d36,3302,658,400,2024,1k-5k,<5k,>100,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-23936,nodejs,undici,a2eff05401358f6595138df963837c24348f2034,3302,199,68,2023,1k-5k,<5k,top-11-100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2024-30261,nodejs,undici,d542b8cd39ec1ba303f038ea26098c3f355974f3,3302,2207,41,2024,1k-5k,<5k,top-11-100,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2023-24807,nodejs,undici,f2324e549943f0b0937b09fb1c0c16cc7c93abdf,3302,210,27,2023,1k-5k,<5k,top-11-100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2024-24758,nodejs,undici,b9da3e40f1f096a06b4caedbb27c2568730434ef,3302,154,24,2024,1k-5k,<5k,top-11-100,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-39532,endojs,endo,fc90c6429604dc79ce8e3355e236ccce2bada041,6136,366,93,2023,5k-10k,<5k,top-11-100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2011-4969,jquery,jquery,db9e023e62c1ff5d8f21ed9868ab6878da2005e9,6749,314,3,2011,5k-10k,<5k,top-2-10,2009-2011,JavaScript,CWE-707: Improper Neutralization
+CVE-2012-6708,jquery,jquery,05531fc4080ae24070930d15ae0cea7ae056457d,6749,571,4,2012,5k-10k,<5k,top-2-10,2012-2014,JavaScript,CWE-707: Improper Neutralization
+CVE-2015-9251,jquery,jquery,b078a62013782c7424a4a61a240c23c4c0b42614,6749,376,104,2015,5k-10k,<5k,>100,2015-2017,JavaScript,CWE-707: Improper Neutralization
+CVE-2020-7656,jquery,jquery,05531fc4080ae24070930d15ae0cea7ae056457d|606b863edaff29035960e4d813b45d63b8d92876,6749,0,10000,2020,5k-10k,<5k,>100,2018-2020,JavaScript,CWE-707: Improper Neutralization
+CVE-2019-17636,eclipse-theia,theia,b212d07f915df1509180944ee3132714bc2636bf,7380,1970,110,2019,5k-10k,<5k,>100,2018-2020,JavaScript,CWE-693: Protection Mechanism Failure
+CVE-2021-34435,eclipse-theia,theia,0761dcf5fe3c14c27432683d42d2c526ad0cfbd5,7380,522,113,2021,5k-10k,<5k,>100,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2021-23389,totaljs,framework,887b0fa9e162ef7a2dd9cec20a5ca122726373b3,5313,217,10000,2021,5k-10k,<5k,>100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2021-21252,jquery-validation,jquery-validation,5d8f29eef363d043a8fec4eb86d42cadb5fa5f7d,900,51,1,2021,<=1k,<5k,top-1,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-43306,jquery-validation,jquery-validation,69cb17ed774b427f7e2ffcdf197968231725c30e,900,141,1,2021,<=1k,<5k,top-1,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-31147,jquery-validation,jquery-validation,5bbd80d27fc6b607d2f7f106c89522051a9fb0dd,900,222,23,2022,<=1k,<5k,top-11-100,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-41655,danocmx,node-tf2-item-format,5cffcc16a9261d6a937bda72bfe6830e02e31eec,848,654,24,2024,<=1k,<5k,top-11-100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2022-30427,gphper,ginadmin,726109f01ad23523715f36f7d272958064666a30,224,307,5,2022,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-30428,gphper,ginadmin,726109f01ad23523715f36f7d272958064666a30,224,307,5,2022,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-15123,codecov,codecov-node,c0711c656686e902af2cd92d6aecc8074de4d83d,417,694,5,2020,<=1k,<5k,top-2-10,2018-2020,JavaScript,CWE-707: Improper Neutralization
+CVE-2020-7597,codecov,codecov-node,02cf13d8b93ac547b5b4c2cfe186b7d874fd234f,417,345,9,2020,<=1k,<5k,top-2-10,2018-2020,JavaScript,CWE-707: Improper Neutralization
+CVE-2019-16146,gophish,gophish,24fe998a3aa04e205900476a9601d481e94d8eea,815,224,5,2019,<=1k,<5k,top-2-10,2018-2020,JavaScript,CWE-707: Improper Neutralization
+CVE-2020-24710,gophish,gophish,e3352f481e94054ffe08494c9225d3878347b005,815,2168,18,2020,<=1k,<5k,top-11-100,2018-2020,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-34232,snowflakedb,snowflake-connector-nodejs,0c9622ae12cd7d627df404b73a783b4a5f60728a,549,403,68,2023,<=1k,<5k,top-11-100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2023-45827,clickbar,dot-diver,9790834cf4c2bca75db00e588e58056dacaf602f|98daf567390d816fd378ec998eefe2e97f293d5a,131,0,10000,2023,<=1k,<5k,>100,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-23354,adaltas,node-printf,a8502e7c9b0b22555696a2d8ef67722086413a68,129,48,6,2021,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-48963,snyk,snyk-php-plugin,9189f093b94f9ce51672f6919ffbc98171fd66d4,136,336,2,2024,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2020-15156,psychobunny,nodebb-plugin-blog-comments,cf43beedb05131937ef46f365ab0a0c6fa6ac618,252,38,2,2020,<=1k,<5k,top-2-10,2018-2020,JavaScript,CWE-693: Protection Mechanism Failure
+CVE-2018-3720,jonschlinkert,assign-deep,19953a8c089b0328c470acaaaf6accdfcb34da11,48,57,5,2018,<=1k,<5k,top-2-10,2018-2020,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-10745,jonschlinkert,assign-deep,90bf1c551d05940898168d04066bbf15060f50cc,48,724,2,2019,<=1k,<5k,top-2-10,2018-2020,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-45811,relative,synchrony,b583126be94c4db7c5a478f1c5204bfb4162cf40,138,32,7,2023,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-43408,jenkinsci,pipeline-stage-view-plugin,cee275109ee748fa9f599ec60159807a28a2933f,549,176,8,2022,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-693: Protection Mechanism Failure
+CVE-2021-4437,dbartholomae,lambda-middleware,f689404d830cbc1edd6a1018d3334ff5f44dc6a6,328,286,1,2021,<=1k,<5k,top-1,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-35220,fastify,session,0495ce5b534c4550f25228821db8098293439f2f,477,346,4,2024,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-25466,rnmods,react-native-document-picker,1ae7cb217d23a551bff86ad10c7ae6f5e074490f,421,215,2,2024,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-25352,dominictarr,libnested,c1129865d75fbe52b5a4f755ad3110ca5420f2e1,47,189,1,2022,<=1k,<5k,top-1,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-30363,Tencent,vConsole,b91591703490e032451f7734212f6458bde9be6a,947,258,3,2023,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-10791,dottgonzo,node-promise-probe,0d9affb67fc1ad985903536d35372cf55efe5a45,31,333,6,2019,<=1k,<5k,top-2-10,2018-2020,JavaScript,CWE-707: Improper Neutralization
+CVE-2018-12457,mrvautin,expressCart,baccaae9b0b72f00b10c5453ca00231340ad3e3b,602,476,3,2018,<=1k,<5k,top-2-10,2018-2020,JavaScript,CWE-284: Improper Access Control
+CVE-2018-3758,mrvautin,expressCart,65b18cfe426fa217aa6ada1d4162891883137893,602,1312,16,2018,<=1k,<5k,top-11-100,2018-2020,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-22403,mrvautin,expressCart,cd3ba1bc609c2f2946bfbc7ee2fccf3483eb71fb,602,1254,6,2020,<=1k,<5k,top-2-10,2018-2020,JavaScript,CWE-693: Protection Mechanism Failure
+CVE-2021-4438,kyivstarteam,react-native-sms-user-consent,5423dcb0cd3e4d573b5520a71fa08aa279e4c3c7,29,389,3,2021,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2022-21190,mozilla,node-convict,1ea0ab19c5208f66509e1c43b0d0f21c1fd29b75,622,267,1,2022,<=1k,<5k,top-1,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-22143,mozilla,node-convict,3b86be087d8f14681a9c889d45da7fe3ad9cd880,622,299,4,2022,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-0163,mozilla,node-convict,fb602fbe1e9f14f2e88ecb8179d0f76466d21ecb,622,100,3,2023,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-25079,segmentio,is-url,149550935c63a98c11f27f694a7c4a9479e53794,44,223,2,2018,<=1k,<5k,top-2-10,2018-2020,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-4059,mikaelbr,mversion,6c76c9efd27c7ff5a5c6f187e8b7a435c4722338,186,1396,6,2020,<=1k,<5k,top-2-10,2018-2020,JavaScript,CWE-707: Improper Neutralization
+CVE-2020-7688,mikaelbr,mversion,b7a8b32600e60759a7ad3921ec4a2750bf173482,186,47,17,2020,<=1k,<5k,top-11-100,2018-2020,JavaScript,CWE-707: Improper Neutralization
+CVE-2024-21536,chimurai,http-proxy-middleware,788b21e4aff38332d6319557d4a5b1b13b1f9a22,469,378,43,2024,<=1k,<5k,top-11-100,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-25915,eugeneware,changeset,9e588844edbb9993b32e7366cc799262b4447f99,46,155,2,2021,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-28092,sindresorhus,is-svg,01f8a087fab8a69c3ac9085fbb16035907ab6a5b,65,214,1,2021,<=1k,<5k,top-1,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-29059,sindresorhus,is-svg,732fc72779840c45a30817d3fe28e12058592b02,65,505,11,2021,<=1k,<5k,top-11-100,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-3737,joyent,node-sshpk,46065d38a5e6d1bccf86d3efb2fb83c14e3f9957,215,283,1,2018,<=1k,<5k,top-1,2018-2020,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-23424,Tjatse,ansi-html,8142b25bca3133ea060bcc1889277dc482327a63,28,282,3,2021,<=1k,<5k,top-2-10,2021-2024,JavaScript,Unknown
+CVE-2021-23413,Stuk,jszip,22357494f424178cb416cdb7d93b26dd4f824b36,736,183,5,2021,<=1k,<5k,top-2-10,2021-2024,JavaScript,Unknown
+CVE-2022-48285,Stuk,jszip,2edab366119c9ee948357c02f1206c28566cdf15,736,4416,6,2022,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2017-16003,felixrieseberg,windows-build-tools,9835d33e68f2cb5e4d148e954bb3ed0221d98e90,328,36,188,2017,<=1k,<5k,>100,2015-2017,JavaScript,CWE-693: Protection Mechanism Failure
+CVE-2024-43370,guillaumepotier,gettext.js,8150aeba833183e14c2291a8a148b8f79d1d68d8,135,35,6,2024,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2021-26276,godaddy,node-config-shield,cdba5d3a7accd661ffbc52e208153464bd0d9da6,32,143,5,2021,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2014-3741,tojocky,node-printer,e001e38738c17219a1d9dd8c31f7d82b9c0013c7,321,59,36,2014,<=1k,<5k,top-11-100,2012-2014,JavaScript,CWE-707: Improper Neutralization
+CVE-2022-28367,nahsra,antisamy,0199e7e194dba5e7d7197703f43ebe22401e61ae,860,356,54,2022,<=1k,<5k,top-11-100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2022-29577,nahsra,antisamy,32e273507da0e964b58c50fd8a4c94c9d9363af0,860,311,19,2022,<=1k,<5k,top-11-100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2024-23635,nahsra,antisamy,12a2e31d3855430c119480655c2bbbbb79a66ecd|3e84410ed06ab67f0a4cc3183c67528210f4847d,860,0,10000,2024,<=1k,<5k,>100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2024-4067,micromatch,micromatch,03aa8052171e878897eee5d7bb2ae0ae83ec2ade|500d5d6f42f0e8dfa1cb5464c6cb420b1b6aaaa0,604,0,10000,2024,<=1k,<5k,>100,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-31597,mjwwit,node-XMLHttpRequest,bf53329b61ca6afc5d28f6b8d2dc2e3ca740a9b2,168,117,10000,2021,<=1k,<5k,>100,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2020-15168,node-fetch,node-fetch,eaff0094c4dfdd5b78711a8c4f1b61e33d282072,640,163,1,2020,<=1k,<5k,top-1,2018-2020,JavaScript,CWE-707: Improper Neutralization
+CVE-2022-0235,node-fetch,node-fetch,36e47e8a6406185921e4985dcbeff140d73eaa10,640,320,7,2022,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-2596,node-fetch,node-fetch,28802387292baee467e042e168d92597b5bbbe3d,640,76,2,2022,<=1k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2018-3723,jonschlinkert,defaults-deep,c873f341327ad885ff4d0f23b3d3bca31b0343e5,17,61,2,2018,<=1k,<5k,top-2-10,2018-2020,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-45459,coreybutler,node-windows,a379d31366edbd7a672a981e6c09e185ab448dd3,243,104,1,2021,<=1k,<5k,top-1,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2018-3743,herber,hekto,1e5c75f8259ba0daf9b2600db3c246cda1934c46,39,160,2,2018,<=1k,<5k,top-2-10,2018-2020,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-27290,npm,ssri,76e223317d971f19e4db8191865bdad5edee40d2,210,253,10000,2021,<=1k,<5k,>100,2021-2024,JavaScript,Unknown
+CVE-2021-40823,matrix-org,matrix-js-sdk,894c24880da0e1cc81818f51c0db80e3c9fb2be9,10344,485,37,2021,>10k,<5k,top-11-100,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2022-39236,matrix-org,matrix-js-sdk,a587d7c36026fe1fcf93dfff63588abee359be76,10344,9580,14,2022,>10k,5k-15k,top-11-100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2022-39249,matrix-org,matrix-js-sdk,a587d7c36026fe1fcf93dfff63588abee359be76,10344,9580,15,2022,>10k,5k-15k,top-11-100,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2022-39250,matrix-org,matrix-js-sdk,a587d7c36026fe1fcf93dfff63588abee359be76,10344,9580,132,2022,>10k,5k-15k,>100,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2022-39251,matrix-org,matrix-js-sdk,a587d7c36026fe1fcf93dfff63588abee359be76,10344,9580,14,2022,>10k,5k-15k,top-11-100,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2024-42369,matrix-org,matrix-js-sdk,a0efed8b881b3db6c9f2c71d6a6e74c2828978c6,10344,58,40,2024,>10k,<5k,top-11-100,2021-2024,JavaScript,CWE-691: Insufficient Control Flow Management
+CVE-2024-47080,matrix-org,matrix-js-sdk,2fb1e659c81f75253c047832dc9dcc2beddfac5f,10344,967,7,2024,>10k,<5k,top-2-10,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-28056,aws-amplify,amplify-cli,73b08dc424db2fb60399c5343c314e02e849d4a1,64303,228,10000,2024,>10k,<5k,>100,2021-2024,JavaScript,CWE-284: Improper Access Control
+CVE-2023-37299,laurent22,joplin,9e90d9016daf79b5414646a93fd369aedb035071,171499,228,320,2023,>10k,<5k,>100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2021-33295,laurent22,joplin,9c20d5947d1fa4678a8b640792ff3d31224f0adf,171499,228,336,2021,>10k,<5k,>100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2020-15930,laurent22,joplin,57d750bc9aeb0f98d53ed4b924458b54984c15ff,171499,228,6,2020,>10k,<5k,top-2-10,2018-2020,JavaScript,CWE-707: Improper Neutralization
+CVE-2020-28249,laurent22,joplin,fd90a490c0e5cacd17bfe0ffc422be1d2a9b1c13,171499,228,85,2020,>10k,<5k,top-11-100,2018-2020,JavaScript,CWE-707: Improper Neutralization
+CVE-2022-45598,laurent22,joplin,a2de167b95debad83a0f0c7925a88c0198db812e,171499,228,463,2022,>10k,<5k,>100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2023-37298,laurent22,joplin,caf66068bfc474bbfd505013076ed173cd90ca83,171499,228,3,2023,>10k,<5k,top-2-10,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2020-9038,laurent22,joplin,3db47b575b9cb0a765da3d283baa2c065df0d0bc,171499,228,1,2020,>10k,<5k,top-1,2018-2020,JavaScript,CWE-707: Improper Neutralization
+CVE-2022-35131,laurent22,joplin,e797ebb864fbf429a49b6d20e5779d0c9aa6c4d5,171499,228,20,2022,>10k,<5k,top-11-100,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2018-1000534,laurent22,joplin,494e235e18659574f836f84fcf9f4d4fcdcfcf89,171499,228,142,2018,>10k,<5k,>100,2018-2020,JavaScript,CWE-707: Improper Neutralization
+CVE-2021-37916,laurent22,joplin,feaecf765368f2c273bea3a9fa641ff0da7e6b26,171499,228,1,2021,>10k,<5k,top-1,2021-2024,JavaScript,CWE-707: Improper Neutralization
+CVE-2024-34708,directus,directus,e70a90c267bea695afce6545174c2b77517d617b,12616,1090,97,2024,>10k,<5k,top-11-100,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-28239,directus,directus,5477d7d61babd7ffc2f835d399bf79611b15b203,12616,2872,17,2024,>10k,<5k,top-11-100,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-39699,directus,directus,d577b44231c0923aca99cac5770fd853801caee1,12616,971,918,2024,>10k,<5k,>100,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-34709,directus,directus,a6172f8a6a0f31a6bf4305a090de172ebfb63bcf,12616,240,108,2024,>10k,<5k,>100,2021-2024,JavaScript,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-41940,socketio,engine.io,425e833ab13373edf1dd5a0706f07100db14e3c6,1193,51,5,2022,1k-5k,<5k,top-2-10,2021-2024,Other,CWE-691: Insufficient Control Flow Management
+CVE-2022-21676,socketio,engine.io,c0e194d44933bd83bf9a4b126fca68ba7bf5098c,1193,234,7,2022,1k-5k,<5k,top-2-10,2021-2024,Other,CWE-703: Improper Check or Handling of Exceptional Conditions
+CVE-2018-7408,npm,npm,74e149da6efe6ed89477faa81fef08eee7999ad0,8342,1155,6,2018,5k-10k,<5k,top-2-10,2018-2020,Other,CWE-284: Improper Access Control
+CVE-2021-23406,TooTallNate,node-degenerator,9d25bb67d957bc2e5425fea7bf7a58b3fc64ff9e|ccc3445354135398b6eb1a04c7d27c13b833f2d5,123,0,10000,2021,<=1k,<5k,>100,2021-2024,Other,Unknown
+CVE-2016-9122,square,go-jose,2c5656adca9909843c4ff50acf1d2cf8f32da7e6|789a4c4bd4c118f7564954f441b29c153ccd6a96|c7581939a3656bb65e89d64da0a52364a33d2507,562,0,10000,2016,<=1k,<5k,>100,2015-2017,Other,CWE-284: Improper Access Control
+CVE-2016-9121,square,go-jose,c7581939a3656bb65e89d64da0a52364a33d2507,562,451,87,2016,<=1k,<5k,top-11-100,2015-2017,Other,CWE-693: Protection Mechanism Failure
+CVE-2021-32643,http4s,http4s,52e1890665410b4385e37b96bc49c5e3c708e4e9,17775,219,3,2021,>10k,<5k,top-2-10,2021-2024,Other,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-5280,http4s,http4s,250afddbb2e65b70ca9ddaec9d1eb3aaa56de7ec|752b3f63a05a31d2de4f8706877aa08d6b89efca|b87f31b2292dabe667bec3b04ce66176c8a3e17b,17775,0,10000,2020,>10k,<5k,>100,2018-2020,Other,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-11358,maximebf,php-debugbar,847216e60544258c881f2733d699bbcfeefac0fc,780,2560,127,2019,<=1k,<5k,>100,2018-2020,PHP,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-6872,facebook,hhvm,2c9a8fcc73a151608634d3e712973d192027c271,72683,121,1,2016,>10k,<5k,top-1,2015-2017,PHP,CWE-682: Incorrect Calculation
+CVE-2020-1921,facebook,hhvm,08193b7f0cd3910256e00d599f0f3eb2519c44ca,72683,31771,20258,2020,>10k,>30k,>100,2018-2020,PHP,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-11925,facebook,hhvm,f1cd34e63c2a0d9702be3d41462db7bfd0ae7da3,72683,124,1554,2019,>10k,<5k,>100,2018-2020,PHP,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-1000005,facebook,hhvm,39e7e177473350b3a5c34e8824af3b98e25efa89,72683,173,1,2016,>10k,<5k,top-1,2015-2017,PHP,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-1888,facebook,hhvm,b3679121bb3c7017ff04b4c08402ffff5cf59b13,72683,133,143,2020,>10k,<5k,>100,2018-2020,PHP,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-1919,facebook,hhvm,08193b7f0cd3910256e00d599f0f3eb2519c44ca,72683,31771,6839,2020,>10k,>30k,>100,2018-2020,PHP,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-6875,facebook,hhvm,1888810e77b446a79a7674784d5f139fcfa605e2,72683,411,1,2016,>10k,<5k,top-1,2015-2017,PHP,Unknown
+CVE-2014-5386,facebook,hhvm,ab6fdeb84fb090b48606b6f7933028cfe7bf3a5e,72683,78,1,2014,>10k,<5k,top-1,2012-2014,PHP,Unknown
+CVE-2014-9714,facebook,hhvm,324701c9fd31beb4f070f1b7ef78b115fbdfec34,72683,128,13,2014,>10k,<5k,top-11-100,2012-2014,PHP,CWE-707: Improper Neutralization
+CVE-2020-1898,facebook,hhvm,1746dfb11fc0048366f34669e74318b8278a684c,72683,1615,2274,2020,>10k,<5k,>100,2018-2020,PHP,CWE-691: Insufficient Control Flow Management
+CVE-2015-3274,moodle,moodle,e96e66aa16dca5cbcdb1aef0f9499edf86f1404b,92300,80,1746,2015,>10k,<5k,>100,2015-2017,PHP,CWE-707: Improper Neutralization
+CVE-2014-3544,moodle,moodle,ce5a785b0962c3c94c7a7b0d36176482d21db95d,92300,64,113,2014,>10k,<5k,>100,2012-2014,PHP,CWE-707: Improper Neutralization
+CVE-2013-1831,moodle,moodle,8d220cb552d9c55b98aef70e2f40ef560efeb79b,92300,258,449,2013,>10k,<5k,>100,2012-2014,PHP,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2014-7832,moodle,moodle,c844af2569e972195db8bca683c1fdf2ddbc3a59,92300,52,1,2014,>10k,<5k,top-1,2012-2014,PHP,Unknown
+CVE-2014-3617,moodle,moodle,8f2e80600bf0fc220b92706907fb3d683602e5c2,92300,99,2272,2014,>10k,<5k,>100,2012-2014,PHP,Unknown
+CVE-2015-5339,moodle,moodle,ed4e707577877f9253e376d22ce307140fcb8c2c,92300,69,2652,2015,>10k,<5k,>100,2015-2017,PHP,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2014-3543,moodle,moodle,595ef4772d330a20c757635ab090acdcc9b2a2fa,92300,117,3,2014,>10k,<5k,top-2-10,2012-2014,PHP,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2014-0124,moodle,moodle,dc8f55c30211efd6fac80386e5b3bffef31cca13,92300,211,198,2014,>10k,<5k,>100,2012-2014,PHP,Unknown
+CVE-2014-7831,moodle,moodle,a0095e5a893190ec28f63a89deba7fd89ad1839a,92300,569,3,2014,>10k,<5k,top-2-10,2012-2014,PHP,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2014-7834,moodle,moodle,40afeb4044c9718bf175c347f0f9099a037ce9f0,92300,1375,276,2014,>10k,<5k,>100,2012-2014,PHP,Unknown
+CVE-2011-2643,phpmyadmin,phpmyadmin,f63e1bb42a37401b2fdfcd2e66cce92b7ea2025c,986059,228,25,2011,>10k,<5k,top-11-100,2009-2011,PHP,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-5703,phpmyadmin,phpmyadmin,ef6c66dca1b0cb0a1a482477938cfc859d2baee3,986059,228,29,2016,>10k,<5k,top-11-100,2015-2017,PHP,CWE-707: Improper Neutralization
+CVE-2011-2505,phpmyadmin,phpmyadmin,7ebd958b2bf59f96fecd5b3322bdbd0b244a7967,986059,228,9,2011,>10k,<5k,top-2-10,2009-2011,PHP,CWE-707: Improper Neutralization
+CVE-2016-5732,phpmyadmin,phpmyadmin,0815af37f483f329f0c0565d68821fea9c47b5f5,986059,228,77,2016,>10k,<5k,top-11-100,2015-2017,PHP,CWE-707: Improper Neutralization
+CVE-2016-2045,phpmyadmin,phpmyadmin,0a24f92d081033576bfdd9d4bdec1a54501734c1,986059,228,95,2016,>10k,<5k,top-11-100,2015-2017,PHP,CWE-707: Improper Neutralization
+CVE-2014-9706,jelmer,dulwich,091638be3c89f46f42c3b1d57dc1504af5729176,4767,384,5,2014,1k-5k,<5k,top-2-10,2012-2014,Python,Unknown
+CVE-2017-16228,jelmer,dulwich,7116a0cbbda571f7dac863f4b1c00b6e16d6d8d6,4767,213,2,2017,1k-5k,<5k,top-2-10,2015-2017,Python,Unknown
+CVE-2023-52323,Legrandin,pycryptodome,0deea1bfe1489e8c80d2053bbb06a1aa0b181ebd,2978,1584,28,2023,1k-5k,<5k,top-11-100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-25882,onnx,onnx,f369b0e859024095d721f1d1612da5a8fa38988d,2996,1297,1,2022,1k-5k,<5k,top-1,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-27318,onnx,onnx,66b7fb630903fdcf3e83b6b6d56d82e904264a20,2996,1646,8,2024,1k-5k,<5k,top-2-10,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-27319,onnx,onnx,08a399ba75a805b7813ab8936b91d0e274b08287,2996,140,10,2024,1k-5k,<5k,top-2-10,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-5187,onnx,onnx,1b70f9b673259360b6a2339c4bd97db9ea6e552f|3fc3845edb048df559aa2a839e39e95503a0ee34,2996,0,10000,2024,1k-5k,<5k,>100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-3945,django-helpdesk,django-helpdesk,2c7065e0c4296e0c692fb4a7ee19c7357583af30|44abb197120a843cce5b5fe8276e4a44b8bb2f48,2626,0,10000,2021,1k-5k,<5k,>100,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2021-3950,django-helpdesk,django-helpdesk,04483bdac3b5196737516398b5ce0383875a5c60,2626,28,20,2021,1k-5k,<5k,top-11-100,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2021-3994,django-helpdesk,django-helpdesk,a22eb0673fe0b7784f99c6b5fd343b64a6700f06,2626,43,6,2021,1k-5k,<5k,top-2-10,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2017-1000433,IdentityPython,pysaml2,6312a41e037954850867f29d329e5007df1424a5,3605,74,119,2017,1k-5k,<5k,>100,2015-2017,Python,CWE-284: Improper Access Control
+CVE-2020-5390,IdentityPython,pysaml2,5e9d5acbcd8ae45c4e736ac521fd2df5b1c62e25|f27c7e7a7010f83380566a219fd6a290a00f2b6e,3605,0,10000,2020,1k-5k,<5k,>100,2018-2020,Python,CWE-693: Protection Mechanism Failure
+CVE-2021-21238,IdentityPython,pysaml2,1d8fd268f5bf887480a403a7a5ef8f048157cc14,3605,19393,23,2021,1k-5k,15k-30k,top-11-100,2021-2024,Python,CWE-693: Protection Mechanism Failure
+CVE-2021-21239,IdentityPython,pysaml2,46578df0695269a16f1c94171f1429873f90ed99,3605,348,18,2021,1k-5k,<5k,top-11-100,2021-2024,Python,CWE-693: Protection Mechanism Failure
+CVE-2022-3273,ikus060,rdiffweb,b5e3bb0a98268d18ceead36ab9b2b7eaacd659a8,1569,864,61,2022,1k-5k,<5k,top-11-100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-4314,ikus060,rdiffweb,b2df3679564d0daa2856213bb307d3e34bd89a25,1569,926,58,2022,1k-5k,<5k,top-11-100,2021-2024,Python,CWE-284: Improper Access Control
+CVE-2022-3167,ikus060,rdiffweb,7294bb7466532762c93d711211e5958940c1b428,1569,264,7,2022,1k-5k,<5k,top-2-10,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-3456,ikus060,rdiffweb,b78ec09f4582e363f6f449df6f987127e126c311,1569,2361,2,2022,1k-5k,<5k,top-2-10,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-3221,ikus060,rdiffweb,9125f5a2d918fed0f3fc1c86fa94cd1779ed9f73,1569,232,26,2022,1k-5k,<5k,top-11-100,2021-2024,Python,CWE-693: Protection Mechanism Failure
+CVE-2022-3179,ikus060,rdiffweb,233befc33bdc45d4838c773d5aed4408720504c5,1569,1215,5,2022,1k-5k,<5k,top-2-10,2021-2024,Python,CWE-284: Improper Access Control
+CVE-2022-3376,ikus060,rdiffweb,2ffc2af65c8f8113b06e0b89929c604bcdf844b9,1569,606,24,2022,1k-5k,<5k,top-11-100,2021-2024,Python,CWE-284: Improper Access Control
+CVE-2022-3362,ikus060,rdiffweb,6efb995bc32c8a8e9ad755eb813dec991dffb2b8,1569,7360,78,2022,1k-5k,5k-15k,top-11-100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-4721,ikus060,rdiffweb,6afaae56a29536f0118b3380d296c416aa6d078d,1569,1338,13,2022,1k-5k,<5k,top-11-100,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2022-3364,ikus060,rdiffweb,b62c479ff6979563c7c23e7182942bc4f460a2c7,1569,585,27,2022,1k-5k,<5k,top-11-100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-24761,Pylons,waitress,9e0b8c801e4d505c2ffc91b891af4ba48af715e0,1055,167,9,2022,1k-5k,<5k,top-2-10,2021-2024,Python,CWE-435: Improper Interaction Between Multiple Correctly-Behaving Entities
+CVE-2022-31015,Pylons,waitress,4f6789b035610e0552738cdc4b35ca809a592d48,1055,377,12,2022,1k-5k,<5k,top-11-100,2021-2024,Python,CWE-691: Insufficient Control Flow Management
+CVE-2019-16789,Pylons,waitress,11d9e138125ad46e951027184b13242a3c1de017|ddb65b489d01d696afa1695b75fdd5df3e4ffdf8,1055,0,10000,2019,1k-5k,<5k,>100,2018-2020,Python,CWE-435: Improper Interaction Between Multiple Correctly-Behaving Entities
+CVE-2024-49769,Pylons,waitress,1ae4e894c9f76543bee06584001583fc6fa8c95c,1055,80,43,2024,1k-5k,<5k,top-11-100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-16786,Pylons,waitress,f11093a6b3240fc26830b6111e826128af7771c3,1055,241,5,2019,1k-5k,<5k,top-2-10,2018-2020,Python,CWE-435: Improper Interaction Between Multiple Correctly-Behaving Entities
+CVE-2019-16785,Pylons,waitress,8eba394ad75deaf9e5cd15b78a3d16b12e6b0eba,1055,5160,5,2019,1k-5k,5k-15k,top-2-10,2018-2020,Python,CWE-435: Improper Interaction Between Multiple Correctly-Behaving Entities
+CVE-2021-29463,Exiv2,exiv2,783b3a6ff15ed6f82a8f8e6c8a6f3b84a9b04d4b,8734,455,392,2021,5k-10k,<5k,>100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-29464,Exiv2,exiv2,f9308839198aca5e68a65194f151a1de92398f54,8734,308,409,2021,5k-10k,<5k,>100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-0057,pyload,pyload,bd2a31b7de54570b919aa1581d486e6ee18c0f64,7866,58,7,2023,5k-10k,<5k,top-2-10,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-22416,pyload,pyload,1374c824271cb7e927740664d06d2e577624ca3e|c7cdc18ad9134a75222974b39e8b427c4af845fc,7866,0,10000,2024,5k-10k,<5k,>100,2021-2024,Python,CWE-693: Protection Mechanism Failure
+CVE-2024-24808,pyload,pyload,fe94451dcc2be90b3889e2fd9d07b483c8a6dccd,7866,358,4,2024,5k-10k,<5k,top-2-10,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-0435,pyload,pyload,431ea6f0371d748df66b344a05ca1a8e0310cff3,7866,18400,6,2023,5k-10k,15k-30k,top-2-10,2021-2024,Python,CWE-710: Improper Adherence to Coding Standards
+CVE-2023-0227,pyload,pyload,c035714c0596b704b11af0f8a669352f128ad2d9,7866,206,2,2023,5k-10k,<5k,top-2-10,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-47821,pyload,pyload,48f59567393a19263c8a0285256a7537dc9ce109,7866,358,15,2024,5k-10k,<5k,top-11-100,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2023-0434,pyload,pyload,a2b1eb1028f45ac58dea5f58593c1d3db2b4a104,7866,144,4,2023,5k-10k,<5k,top-2-10,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2023-0488,pyload,pyload,46d75a3087f3237d06530d55998938e2e2bda6bd,7866,244,2,2023,5k-10k,<5k,top-2-10,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2024-21645,pyload,pyload,4159a1191ec4fe6d927e57a9c4bb8f54e16c381d,7866,134,10,2024,5k-10k,<5k,top-2-10,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2021-43781,inveniosoftware,invenio-drafts-resources,039b0cff1ad4b952000f4d8c3a93f347108b6626,415,74,1,2021,<=1k,<5k,top-1,2021-2024,Python,CWE-284: Improper Access Control
+CVE-2017-18342,yaml,pyyaml,7b68405c81db889f83c32846462b238ccae5be80,325,917,20,2017,<=1k,<5k,top-11-100,2015-2017,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-14343,yaml,pyyaml,a001f2782501ad2d24986959f0239a354675f9dc,325,238,21,2020,<=1k,<5k,top-11-100,2018-2020,Python,CWE-707: Improper Neutralization
+CVE-2020-1747,yaml,pyyaml,0cedb2a0697b2bc49e4f3841b8d4590b6b15657e|5080ba513377b6355a0502104846ee804656f1e0,325,0,10000,2020,<=1k,<5k,>100,2018-2020,Python,CWE-707: Improper Neutralization
+CVE-2023-26302,executablebooks,markdown-it-py,53ca3e9c2b9e9b295f6abf7f4ad2730a9b70f68c,331,101,15,2023,<=1k,<5k,top-11-100,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2023-26303,executablebooks,markdown-it-py,53ca3e9c2b9e9b295f6abf7f4ad2730a9b70f68c|ae03c6107dfa18e648f6fdd1280f5b89092d5d49,331,0,10000,2023,<=1k,<5k,>100,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2021-22557,google,slo-generator,36318beab1b85d14bb860e45bea186b184690d5d,389,94,41,2021,<=1k,<5k,top-11-100,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2024-48911,thinkst,opencanary,2c11575b1a3dd8b0df26a879ba856c0aa350c049,260,441,21,2024,<=1k,<5k,top-11-100,2021-2024,Python,CWE-284: Improper Access Control
+CVE-2017-16616,Stranger6667,pyanyapi,810db626c18ebc261d5f4299d0f0eac38d5eb3cf,132,301,2,2017,<=1k,<5k,top-2-10,2015-2017,Python,Unknown
+CVE-2024-3651,kjd,idna,1d365e17e10d72d0b7876316fc7b9ca0eebdd38d,351,121,12,2024,<=1k,<5k,top-11-100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-0860,modoboa,modoboa-installer,63d92b73f3da6971ae4e13d033d625773ac91085,564,59,7,2023,<=1k,<5k,top-2-10,2021-2024,Python,CWE-284: Improper Access Control
+CVE-2021-21360,zopefoundation,Products.GenericSetup,700319512b3615b3871a1f24e096cf66dc488c57,731,375,13,2021,<=1k,<5k,top-11-100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-31543,bndr,pipreqs,3f5964fcb90ec6eb6df46d78e651a1b73538d0ba,363,141,46,2023,<=1k,<5k,top-11-100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-0869,nitely,spirit,8f32f89654d6c30d56e0dd167059d32146fb32ef,950,1851,2,2022,<=1k,<5k,top-2-10,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-25303,benbusby,whoogle-search,abc30d7da3b5c67be7ce84d4699f327442d44606,848,29,1,2022,<=1k,<5k,top-1,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2024-22203,benbusby,whoogle-search,3a2e0b262e4a076a20416b45e6b6f23fd265aeda,848,265,1,2024,<=1k,<5k,top-1,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-22204,benbusby,whoogle-search,3a2e0b262e4a076a20416b45e6b6f23fd265aeda,848,265,38,2024,<=1k,<5k,top-11-100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-22205,benbusby,whoogle-search,3a2e0b262e4a076a20416b45e6b6f23fd265aeda,848,265,14,2024,<=1k,<5k,top-11-100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-22417,benbusby,whoogle-search,3a2e0b262e4a076a20416b45e6b6f23fd265aeda,848,265,7,2024,<=1k,<5k,top-2-10,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2024-23730,run-llama,llama-hub,c01416e737c7747a213a79881b8308c41d043515,848,260,1,2024,<=1k,<5k,top-1,2021-2024,Python,Unknown
+CVE-2013-4347,joestump,python-oauth2,82dd2cdd4954cd7b8983d5d64c0dfd9072bf4650,352,319,36,2013,<=1k,<5k,top-11-100,2012-2014,Python,Unknown
+CVE-2024-47532,zopefoundation,RestrictedPython,d701cc36cccac36b21fa200f1f2d1945a9a215e6,753,204,2,2024,<=1k,<5k,top-2-10,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-41039,zopefoundation,RestrictedPython,4134aedcff17c977da7717693ed89ce56d54c120,753,680,2,2023,<=1k,<5k,top-2-10,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2021-25287,python-pillow,Pillow,3bf5eddb89afdf690eceaa52bc4d3546ba9a5f87,19173,440,722,2021,>10k,<5k,>100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2014-3598,python-pillow,Pillow,347a1d8d956f9e64af4463ee25311b60cdd5657d,19173,100,3448,2014,>10k,<5k,>100,2012-2014,Python,Unknown
+CVE-2021-25289,python-pillow,Pillow,3fee28eb9479bf7d59e0fa08068f9cc4a6e2f04c,19173,120,154,2021,>10k,<5k,>100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2020-10379,python-pillow,Pillow,46f4a349b88915787fea3fb91348bb1665831bbb,19173,435,66,2020,>10k,<5k,top-11-100,2018-2020,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-25292,python-pillow,Pillow,3bce145966374dd39ce58a6fc0083f8d1890719c|6207b44ab1ff4a91d8ddc7579619876d0bb191a4,19173,0,10000,2021,>10k,<5k,>100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-2533,python-pillow,Pillow,ae453aa18b66af54e7ff716f4ccb33adca60afd4,19173,208,26,2016,>10k,<5k,top-11-100,2015-2017,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-25291,python-pillow,Pillow,cbdce6c5d054fccaf4af34b47f212355c64ace7a,19173,169,3,2021,>10k,<5k,top-2-10,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-25288,python-pillow,Pillow,3bf5eddb89afdf690eceaa52bc4d3546ba9a5f87,19173,440,723,2021,>10k,<5k,>100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2019-16865,python-pillow,Pillow,ab52630d0644e42a75eb88b78b9a9d7438a6fbeb,19173,387,202,2019,>10k,<5k,>100,2018-2020,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2021-25290,python-pillow,Pillow,86f02f7c70862a0954bfe8133736d352db978eaa,19173,200,7,2021,>10k,<5k,top-2-10,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-31208,element-hq,synapse,55b0aa847a61774b6a3acdc4b177a20dc019f01a,24531,1392,10000,2024,>10k,<5k,>100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-0959,pgadmin-org,pgadmin4,dccd4f0bbaafa783d9f0360c7592b128d5cc3928,56385,228,11,2022,>10k,<5k,top-11-100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-5002,pgadmin-org,pgadmin4,35f05e49b3632a0a674b9b36535a7fe2d93dd0c2,56385,228,15,2023,>10k,<5k,top-11-100,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2024-2044,pgadmin-org,pgadmin4,4e49d752fba72953acceeb7f4aa2e6e32d25853d,56385,228,1,2024,>10k,<5k,top-1,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-3116,pgadmin-org,pgadmin4,fbbbfe22dd468bcfef1e1f833ec32289a6e56a8b,56385,228,1,2024,>10k,<5k,top-1,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2024-4215,pgadmin-org,pgadmin4,f4761f55f7cf6d56d6c5129f921393b0b47fd976,56385,228,1,2024,>10k,<5k,top-1,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2024-4216,pgadmin-org,pgadmin4,e384c9665ae2e72376be7cefa8e652efcee93767,56385,228,1,2024,>10k,<5k,top-1,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2024-29735,apache,airflow,aae4a83cdfb3be4afeefd88a7bfa3c4d8d184958,57959,537,60,2024,>10k,<5k,top-11-100,2021-2024,Python,CWE-284: Improper Access Control
+CVE-2024-39877,apache,airflow,8159f6e24704f5e0e3b3217cf79ecf5083dce531,57959,225,50,2024,>10k,<5k,top-11-100,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2023-25754,apache,airflow,18347d36e67894604436f3ef47d273532683b473,57959,1256,12,2023,>10k,<5k,top-11-100,2021-2024,Python,CWE-284: Improper Access Control
+CVE-2020-11978,apache,airflow,4d8599e8b0520ff4226fbad72f724afae50fdd08,57959,454,1561,2020,>10k,<5k,>100,2018-2020,Python,CWE-707: Improper Neutralization
+CVE-2024-28746,apache,airflow,89e7f3e7bdf2126bbbcd959dc10d65ef92773cca,57959,500,298,2024,>10k,<5k,>100,2021-2024,Python,CWE-284: Improper Access Control
+CVE-2020-17511,apache,airflow,4e32546faf227a6497ce8b282fff7450cae6f665,57959,466,1,2020,>10k,<5k,top-1,2018-2020,Python,CWE-693: Protection Mechanism Failure
+CVE-2023-39553,apache,airflow,394a727ac2c18d58978bf186a7a92923460ec110,57959,266,5,2023,>10k,<5k,top-2-10,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2023-22888,apache,airflow,05bd90f563649f2e9c8f0c85cf5838315a665a02,57959,1718,147,2023,>10k,<5k,>100,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2023-37379,apache,airflow,e4c3ecf8ceaefa17525b495e4bcb5b2f41309603,57959,1453,11,2023,>10k,<5k,top-11-100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-38649,apache,airflow,1d4fd5c6eacab0b88f8660f9d780174434393f1a,57959,553,58,2022,>10k,<5k,top-11-100,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2015-5240,openstack,neutron,bbca973986fdc99eae9d1b2545e8246c0b2be2e2|fdc3431ccd219accf6a795079d9b67b8656eed8e,53249,228,10000,2015,>10k,<5k,>100,2015-2017,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2016-5363,openstack,neutron,5853af9cba6733725d6c9ac0db644f426713f0cf|6a93ee8ac1a901c255e3475a24f1afc11d8bf80f|997d7b03fb7f5528f0a3ce70867b9dcd9321509e,53249,228,10000,2016,>10k,<5k,>100,2015-2017,Python,Unknown
+CVE-2018-14635,openstack,neutron,54aa6e81cb17b33ce4d5d469cc11dec2869c762d,53249,474,1,2018,>10k,<5k,top-1,2018-2020,Python,CWE-707: Improper Neutralization
+CVE-2021-38598,openstack,neutron,0a931391d8990f3e654b4bfda24ae4119c609bbf|cc0d28a3e2ccfad6fc2ff24d78f009cbe3992575,53249,228,10000,2021,>10k,<5k,>100,2021-2024,Python,CWE-284: Improper Access Control
+CVE-2021-40085,openstack,neutron,df891f0593d234e01f27d7c0376d9702e178ecfb,53249,191,12,2021,>10k,<5k,top-11-100,2021-2024,Python,Unknown
+CVE-2021-40797,openstack,neutron,e610a5eb9e71aa2549fb11e2139370d227787da2,53249,70,8,2021,>10k,<5k,top-2-10,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2022-3277,openstack,neutron,01fc2b9195f999df4d810df4ee63f77ecbc81f7e,53249,125,292,2022,>10k,<5k,>100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-36258,langchain-ai,langchain,e294ba475a355feb95003ed8f1a2b99942509a9e|fab24457bcf8ede882abd11419769c92bc4e7751,59481,228,10000,2023,>10k,<5k,>100,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2024-3095,langchain-ai,langchain,604dfe2d99246b0c09f047c604f0c63eafba31e7,59481,228,3,2024,>10k,<5k,top-2-10,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-39659,langchain-ai,langchain,cadfce295f8a33828fc635c2e5ea28b883e5c992,59481,228,723,2023,>10k,<5k,>100,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2023-38860,langchain-ai,langchain,d353d668e4b0514122a443cef91de7f76fea4245|fab24457bcf8ede882abd11419769c92bc4e7751,59481,228,10000,2023,>10k,<5k,>100,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2024-28088,langchain-ai,langchain,e1924b3e93d513ca950c72f8e80e1c133749fba5,59481,228,1,2024,>10k,<5k,top-1,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2024-5998,langchain-ai,langchain,77209f315efd13442ec51c67719ba37dfaa44511,59481,228,142,2024,>10k,<5k,>100,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-38896,langchain-ai,langchain,e294ba475a355feb95003ed8f1a2b99942509a9e,59481,228,5,2023,>10k,<5k,top-2-10,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2024-0243,langchain-ai,langchain,bf0b3cc0b5ade1fb95a5b1b6fa260e99064c2e22,59481,228,5,2024,>10k,<5k,top-2-10,2021-2024,Python,CWE-664: Improper Control of a Resource Through its Lifetime
+CVE-2023-36189,langchain-ai,langchain,fab24457bcf8ede882abd11419769c92bc4e7751,59481,228,276,2023,>10k,<5k,>100,2021-2024,Python,CWE-707: Improper Neutralization
+CVE-2023-34540,langchain-ai,langchain,a2f191a32229256dd41deadf97786fe41ce04cbb,59481,228,1,2023,>10k,<5k,top-1,2021-2024,Python,Unknown

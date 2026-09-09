@@ -1,0 +1,37 @@
+# PatchHolmes runtime dependencies.
+#   pip install -e .          # the patchholmes package (no heavy deps)
+#   pip install -r requirements.txt   # the runtime stack below
+# Pins are known-good versions; refresh after re-running the full evaluation suite.
+
+# ── Core numerical ──────────────────────────────────────────────────────────
+numpy>=1.23,<3.0
+
+# ── Retrieval (Phase 1) ─────────────────────────────────────────────────────
+faiss-cpu>=1.7.4        # dense-retrieval index (torch is an optional faster backend)
+torch>=2.0              # dense encoding + optional GPU search backend
+transformers>=4.40      # Qwen3-Embedding tokenizer/model
+accelerate>=0.26        # transformers device_map helper for the 8B embedder
+elasticsearch>=8.10,<9  # optional: online BM25 fallback (patchholmes/phase1/es_bm25_online.py)
+
+# ── Phase 2 (LLM agentic loop + LLM listwise critic) ────────────────────────
+openhands-sdk>=1.22,<2.0   # from PyPI; developed against upstream b5e957fb (May 2026)
+litellm>=1.40              # LLM routing used by the OpenHands SDK
+rank-llm>=0.5              # from PyPI; developed against upstream 831d7456 (Apr 2026)
+pydantic>=2.6
+
+# ── PatchFinder_top10 baseline (baselines/patchfinder_top10) ────────────────
+pandas>=2.0             # reads the benchmark parquet
+pyarrow>=14.0           # parquet engine for pandas
+
+# ── Config ──────────────────────────────────────────────────────────────────
+python-dotenv>=1.0      # loads .env files
+
+# ── Full corpus encoding (optional) ─────────────────────────────────────────
+# The data/mini/ demo ships precomputed embeddings, so nothing below is needed
+# just to try the pipeline. Reproducing the paper's full Qwen3-Embedding corpus
+# encoding needs a GPU and Tevatron:
+#   pip install "tevatron @ git+https://github.com/texttron/tevatron.git"
+
+# ── IRCoT baseline (FlashRAG) ───────────────────────────────────────────────
+# Heavyweight; install from upstream only to reproduce the IRCoT comparison.
+# See the "External baselines" section of README.md.
